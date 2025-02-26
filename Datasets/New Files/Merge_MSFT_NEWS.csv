@@ -1,0 +1,503 @@
+ticker_symbol,company_name,day_date,close_value,volume,open_value,high_value,low_value,month_day,Unnamed: 0,date,text,news_sentiment
+MSFT,Microsoft,2019-01-01,101.57,33161320,101.29,102.4,100.44,01-01,0.0,0,0,0.0
+MSFT,Microsoft,2019-01-02,101.12,35145360,99.55,101.75,98.94,01-02,1246.0,2020-01-02 00:00:00,emerging detail suggest former nissan renault chairman owes arrival lebanon escape plan grand scale carlos ghosn flee japan,1.0
+MSFT,Microsoft,2019-01-03,97.4,42111650,100.1,100.185,97.2,01-03,0.0,0,0,0.0
+MSFT,Microsoft,2019-01-04,101.93,43982700,99.72,102.51,98.93,01-04,0.0,0,0,0.0
+MSFT,Microsoft,2019-01-05,101.93,43982700,99.72,102.51,98.93,01-05,0.0,0,0,0.0
+MSFT,Microsoft,2019-01-06,101.93,43982700,99.72,102.51,98.93,01-06,0.0,0,0,0.0
+MSFT,Microsoft,2019-01-07,102.06,35567820,101.64,103.2681,100.98,01-07,1247.0,2020-01-07 00:00:00,maker home speaker said google amazon stole technology abused power could risk suing one sonos squeezed tech giant sue google,0.0
+MSFT,Microsoft,2019-01-07,102.06,35567820,101.64,103.2681,100.98,01-07,1238.0,2020-01-07 00:00:00,company said would remove video altered artificial intelligence way meant mislead viewer facebook say ban ‘deepfakes’,-1.0
+MSFT,Microsoft,2019-01-08,102.8,31322920,103.04,103.97,101.7134,01-08,1229.0,2020-01-08 00:00:00,stock rallied oil fell became clear iran united state backing away confrontation stock rally iran worry ease corporate outlook brightens,1.0
+MSFT,Microsoft,2019-01-09,104.27,32261890,103.86,104.88,103.2445,01-09,1230.0,2020-01-09 00:00:00,sp added nearly percent rally thanks combination low interest rate receding economic risk u stock sweet spot hit record,1.0
+MSFT,Microsoft,2019-01-10,103.6,29978930,103.22,103.75,102.38,01-10,1241.0,2020-01-10 00:00:00,university investigated history mr epstein joichi ito face prominent medium lab program acknowledged receiving money convicted sex offender jeffrey epstein gave mit administrator knew,1.0
+MSFT,Microsoft,2019-01-11,102.8,28235260,103.19,103.44,101.64,01-11,0.0,0,0,0.0
+MSFT,Microsoft,2019-01-12,102.8,28235260,103.19,103.44,101.64,01-12,0.0,0,0,0.0
+MSFT,Microsoft,2019-01-13,102.8,28235260,103.19,103.44,101.64,01-13,1242.0,2020-01-13 00:00:00,people think phil hogan’s blunt style advantage dealing trump white house making first official trip washington week new eu trade chief quest fix relation u,1.0
+MSFT,Microsoft,2019-01-14,102.05,27194560,101.9,102.8716,101.26,01-14,0.0,0,0,0.0
+MSFT,Microsoft,2019-01-15,105.01,31537490,102.51,105.05,101.88,01-15,1243.0,2020-01-15 00:00:00,subscription service like netflix google drive convenient lose control content data here’s take back we’re living subscription world here’s navigate,0.0
+MSFT,Microsoft,2019-01-16,105.38,29655860,105.26,106.255,104.96,01-16,1223.0,2020-01-16 00:00:00,sp nasdaq russell record territory stock continue record climb earnings overshadow impeachment,0.0
+MSFT,Microsoft,2019-01-16,105.38,29655860,105.26,106.255,104.96,01-16,1225.0,2020-01-16 00:00:00,internet search giant became fourth tech company — apple amazon microsoft — reach market milestone google reach trillion value even face new test,1.0
+MSFT,Microsoft,2019-01-17,106.12,27151570,105.0,106.625,104.76,01-17,1226.0,2020-01-17 00:00:00,homerental company plan consider need investor corporate governance — factor employee pay airbnb imago ‘stakeholder’ world,0.0
+MSFT,Microsoft,2019-01-17,106.12,27151570,105.0,106.625,104.76,01-17,1236.0,2020-01-17 00:00:00,two new book examine digital technology transforming business economy look resulting ethical regulatory concern review competing digital age,1.0
+MSFT,Microsoft,2019-01-18,107.71,37299850,107.46,107.9,105.91,01-18,0.0,0,0,0.0
+MSFT,Microsoft,2019-01-19,107.71,37299850,107.46,107.9,105.91,01-19,0.0,0,0,0.0
+MSFT,Microsoft,2019-01-20,107.71,37299850,107.46,107.9,105.91,01-20,1231.0,2020-01-20 00:00:00,desire offend potential customer divided nation well wariness president trump’s twitter account mean fewer topical ad impeachment news ad staying away politics,-1.0
+MSFT,Microsoft,2019-01-20,107.71,37299850,107.46,107.9,105.91,01-20,1233.0,2020-01-20 00:00:00,ceo come accept president spite populist view governancebytwitter style tax cut record stock market speak volume davos plutocrat warm trump,1.0
+MSFT,Microsoft,2019-01-20,107.71,37299850,107.46,107.9,105.91,01-20,1234.0,2020-01-20 00:00:00,like trump india pressuring mr bezos’ business leader become nationalistic toward foreign company news medium india target jeff bezos amazon washington post,-1.0
+MSFT,Microsoft,2019-01-21,107.71,37299850,107.46,107.9,105.91,01-21,0.0,0,0,0.0
+MSFT,Microsoft,2019-01-22,105.68,32092050,106.75,107.1,104.86,01-22,1245.0,2020-01-22 00:00:00,new report say amazon chief’s device attacked using malware sent whatsapp account tied prince mohammed bin salman saudi arabia’s de facto ruler jeff bezos’s lesson beware whatsapp account tied mb,1.0
+MSFT,Microsoft,2019-01-22,105.68,32092050,106.75,107.1,104.86,01-22,1237.0,2020-01-22 00:00:00,chief executive could get stock award worth hundred million carmaker’s market capitalization sustained month ahead tesla value hit billion elon musk get big bonus,1.0
+MSFT,Microsoft,2019-01-22,105.68,32092050,106.75,107.1,104.86,01-22,1222.0,2020-01-22 00:00:00,voiceactivated helper automate life’s little chore get hang put alexa siri work,-1.0
+MSFT,Microsoft,2019-01-23,106.71,25512110,106.12,107.04,105.34,01-23,1240.0,2020-01-23 00:00:00,davos business leader newly vocal danger though gave detail would reform practice big business say tackle climate change,1.0
+MSFT,Microsoft,2019-01-23,106.71,25512110,106.12,107.04,105.34,01-23,1224.0,2020-01-23 00:00:00,china close city affected growing viral outbreak business leader world economic forum fear replay sars epidemic fear new coronavirus grip davos,1.0
+MSFT,Microsoft,2019-01-24,106.2,23125910,106.86,107.0,105.34,01-24,1235.0,2020-01-24 00:00:00,tech giant begun charging u law enforcement response search warrant subpoena search warrant data google want pay,0.0
+MSFT,Microsoft,2019-01-25,107.17,31182240,107.24,107.88,106.59,01-25,0.0,0,0,0.0
+MSFT,Microsoft,2019-01-26,107.17,31182240,107.24,107.88,106.59,01-26,0.0,0,0,0.0
+MSFT,Microsoft,2019-01-27,107.17,31182240,107.24,107.88,106.59,01-27,0.0,0,0,0.0
+MSFT,Microsoft,2019-01-28,105.08,29402020,106.26,106.48,104.66,01-28,0.0,0,0,0.0
+MSFT,Microsoft,2019-01-29,102.94,31262200,104.88,104.97,102.17,01-29,0.0,0,0,0.0
+MSFT,Microsoft,2019-01-30,106.38,47203190,104.62,106.38,104.33,01-30,1244.0,2020-01-30 00:00:00,tesla reported million quarterly profit yesterday convincing backer company solved problem — doubter aren’t convinced elon musk hit back critic,1.0
+MSFT,Microsoft,2019-01-30,106.38,47203190,104.62,106.38,104.33,01-30,1232.0,2020-01-30 00:00:00,internet giant posted increase revenue profit shopper flocked holiday season amazon power ahead robust profit,0.0
+MSFT,Microsoft,2019-01-30,106.38,47203190,104.62,106.38,104.33,01-30,1227.0,2020-01-30 00:00:00,global stock fell economist revised outlook impact virus sp slightly end day wall st shrug risk related viral outbreak china,-1.0
+MSFT,Microsoft,2019-01-30,106.38,47203190,104.62,106.38,104.33,01-30,1239.0,2020-01-30 00:00:00,arvind krishna led company’s cloud computing business named new chief executive ginni rometty step ceo ibm,1.0
+MSFT,Microsoft,2019-01-31,104.43,55442870,103.8,105.22,103.18,01-31,1228.0,2020-01-31 00:00:00,internet juggernaut enjoyed stunning quarter nearly every business worked result increased jeff bezos’ wealth billion minute amazon keep defying gravity,1.0
+MSFT,Microsoft,2019-02-01,102.78,35243730,103.775,104.0999,102.35,02-01,0.0,0,0,0.0
+MSFT,Microsoft,2019-02-02,102.78,35243730,103.775,104.0999,102.35,02-02,1269.0,2020-02-02 00:00:00,uplifting spot major brand stayed away divisive issue tv’s biggest ad day trump bloomberg crashed party super bowl commercial funeral mr peanut tear google,1.0
+MSFT,Microsoft,2019-02-03,102.78,35243730,103.775,104.0999,102.35,02-03,0.0,0,0,0.0
+MSFT,Microsoft,2019-02-04,105.74,31216260,102.87,105.8,102.77,02-04,1272.0,2020-02-04 00:00:00,alphabet unexpectedly disclosed much revenue video platform collected last year distraction result didn’t meet investor expectation peek inside youtube’s money machine,1.0
+MSFT,Microsoft,2019-02-04,105.74,31216260,102.87,105.8,102.77,02-04,1253.0,2020-02-04 00:00:00,despite regulatory scrutiny pressure lawmaker industry’s wealthiest continuing grow remarkable speed big company gap have havenots tech widens,1.0
+MSFT,Microsoft,2019-02-05,107.22,27270810,106.06,107.27,105.96,02-05,1271.0,2020-02-05 00:00:00,social network facebook bought billion reportedly collected billion ad revenue last year — surpassing youtube’s ad sale instagram steal century,1.0
+MSFT,Microsoft,2019-02-05,107.22,27270810,106.06,107.27,105.96,02-05,1265.0,2020-02-05 00:00:00,marketer across country main action took place field desperately running number see brand broke noise super bowl’s real winner … bill murray,1.0
+MSFT,Microsoft,2019-02-06,106.03,20577980,107.0,107.0,105.53,02-06,0.0,0,0,0.0
+MSFT,Microsoft,2019-02-07,105.27,29735930,105.185,105.59,104.29,02-07,1264.0,2020-02-07 00:00:00,conference berlin tech outfit around world eager business law enforcement week tech company make pitch police,0.0
+MSFT,Microsoft,2019-02-08,105.67,21453990,104.39,105.78,104.2603,02-08,0.0,0,0,0.0
+MSFT,Microsoft,2019-02-09,105.67,21453990,104.39,105.78,104.2603,02-09,0.0,0,0,0.0
+MSFT,Microsoft,2019-02-10,105.67,21453990,104.39,105.78,104.2603,02-10,1252.0,2020-02-10 00:00:00,pentagon said “strongly opposes” request internet giant challenging awarding defense contract microsoft amazon look question trump pentagon contracting case,1.0
+MSFT,Microsoft,2019-02-11,105.25,18753750,106.2,106.58,104.965,02-11,1251.0,2020-02-11 00:00:00,agency ordered amazon apple facebook alphabet microsoft turn decade’s worth information small acquisition ftc broadens review tech giant homing deal,1.0
+MSFT,Microsoft,2019-02-11,105.25,18753750,106.2,106.58,104.965,02-11,1257.0,2020-02-11 00:00:00,federal judge expected approve billion deal imminently banker happy california new york official much winner loser tmobile sprint’s merger saga,1.0
+MSFT,Microsoft,2019-02-12,106.89,25018670,106.14,107.14,105.48,02-12,1275.0,2020-02-12 00:00:00,bernie sander emerged victorious new hampshire’s democratic primary moderate supporter including prominent business chief starting sweat business worried bernie,1.0
+MSFT,Microsoft,2019-02-13,106.81,18337830,107.5,107.78,106.71,02-13,1273.0,2020-02-13 00:00:00,washington hand see judy shelton darkhorse candidate become chairwoman — others think central bank veteran still favorite next leader fed,1.0
+MSFT,Microsoft,2019-02-13,106.81,18337830,107.5,107.78,106.71,02-13,1249.0,2020-02-13 00:00:00,judge ordered work stop cloudcomputing contract pentagon amazon’s legal challenge resolved judge halt work microsoft’s jedi contract victory amazon,1.0
+MSFT,Microsoft,2019-02-14,106.9,21745770,106.31,107.29,105.66,02-14,1254.0,2020-02-14 00:00:00,amazing may sound phone maker adding fancy new camera week tech smartphones interesting,1.0
+MSFT,Microsoft,2019-02-14,106.9,21745770,106.31,107.29,105.66,02-14,1260.0,2020-02-14 00:00:00,airline pledge spend least billion buy emission offset invest efficient plane new fuel source carboncapture technology delta plan go carbon neutral yes read right,1.0
+MSFT,Microsoft,2019-02-14,106.9,21745770,106.31,107.29,105.66,02-14,1263.0,2020-02-14 00:00:00,amazon leader reached deal warner estate beverly hill david geffen owned since jeff bezos buying million estate california record,0.0
+MSFT,Microsoft,2019-02-15,108.22,26589160,107.91,108.3,107.3624,02-15,0.0,0,0,0.0
+MSFT,Microsoft,2019-02-16,108.22,26589160,107.91,108.3,107.3624,02-16,0.0,0,0,0.0
+MSFT,Microsoft,2019-02-17,108.22,26589160,107.91,108.3,107.3624,02-17,1268.0,2020-02-17 00:00:00,world’s richest man unveiled fund help climate scientist activist escalation philanthropic effort jeff bezos commits billion address climate change,0.0
+MSFT,Microsoft,2019-02-17,108.22,26589160,107.91,108.3,107.3624,02-17,1256.0,2020-02-17 00:00:00,developer offering physical twist keep traditional fan interested draw new one bored workout video game maker want get player couch,-1.0
+MSFT,Microsoft,2019-02-18,108.22,26589160,107.91,108.3,107.3624,02-18,0.0,0,0,0.0
+MSFT,Microsoft,2019-02-19,108.17,17982860,107.79,108.66,107.78,02-19,1261.0,2020-02-19 00:00:00,michael milken among “who’s whitecollar criminals” given official reprieve president trump presidential pardon ‘junk bond king’,0.0
+MSFT,Microsoft,2019-02-19,108.17,17982860,107.79,108.66,107.78,02-19,1250.0,2020-02-19 00:00:00,european union outlined proposal bolster digital economy keep overly reliant foreign company cracking company europe overrun foreign tech giant want grow,-1.0
+MSFT,Microsoft,2019-02-20,107.15,21603580,107.86,107.94,106.29,02-20,1266.0,2020-02-20 00:00:00,lawsuit say google top tech brand public school used educational product spy student new mexico sue google children’s privacy violation,1.0
+MSFT,Microsoft,2019-02-21,109.41,28856200,106.9,109.48,106.87,02-21,0.0,0,0,0.0
+MSFT,Microsoft,2019-02-22,110.97,27746840,110.05,111.2,109.82,02-22,0.0,0,0,0.0
+MSFT,Microsoft,2019-02-23,110.97,27746840,110.05,111.2,109.82,02-23,0.0,0,0,0.0
+MSFT,Microsoft,2019-02-24,110.97,27746840,110.05,111.2,109.82,02-24,1270.0,2020-02-24 00:00:00,“when seeking director ceo don’t look pit bulls” mr buffett wrote latest shareholder letter “it’s cocker spaniel get taken home” warren buffett problem ‘independent’ director,1.0
+MSFT,Microsoft,2019-02-25,111.59,23723500,111.76,112.18,111.26,02-25,0.0,0,0,0.0
+MSFT,Microsoft,2019-02-26,112.36,21513210,111.26,113.24,111.17,02-26,1255.0,2020-02-26 00:00:00,outbreak virus outside china sparked concern among investor global economic damage stock fall coronavirus spread,1.0
+MSFT,Microsoft,2019-02-26,112.36,21513210,111.26,113.24,111.17,02-26,1248.0,2020-02-26 00:00:00,tech giant said virus causing issue supply chain week apple said facing similar problem microsoft issue financial warning coronavirus,0.0
+MSFT,Microsoft,2019-02-27,112.17,21471170,111.69,112.36,110.88,02-27,1262.0,2020-02-27 00:00:00,digital service churned world’s computer center multiplying energy use thanks cloud computing new study say cloud computing energy hog feared,1.0
+MSFT,Microsoft,2019-02-27,112.17,21471170,111.69,112.36,110.88,02-27,1274.0,2020-02-27 00:00:00,quarantine travel ban bad deal maker rely inperson schmoozing banker around world prevented meeting client company telling employee coronavirus,-1.0
+MSFT,Microsoft,2019-02-27,112.17,21471170,111.69,112.36,110.88,02-27,1267.0,2020-02-27 00:00:00,virus spread country put pressure business supply chain around world coronavirus fear drive stock th day correction,0.0
+MSFT,Microsoft,2019-02-28,112.03,28948570,112.04,112.88,111.73,02-28,1259.0,2020-02-28 00:00:00,whether economy slide recession may determined way business react outbreak bad could get company gauge coronavirus impact,-1.0
+MSFT,Microsoft,2019-02-28,112.03,28948570,112.04,112.88,111.73,02-28,1276.0,2020-02-28 00:00:00,longer coronavirus outbreak go greater chance forgone economic activity lost forever that’s driving selloff selling get serious,1.0
+MSFT,Microsoft,2019-02-28,112.03,28948570,112.04,112.88,111.73,02-28,1277.0,2020-02-28 00:00:00,investor betting help government central bank last week’s share tumble economic indicator flash warning sign asian market seesaw bond rise coronavirus fear linger,1.0
+MSFT,Microsoft,2019-02-28,112.03,28948570,112.04,112.88,111.73,02-28,1258.0,2020-02-28 00:00:00,company telling investor sale slumping outbreak conference canceled worker instructed travel week tech coronavirus disrupts industry,0.0
+MSFT,Microsoft,2019-03-01,112.53,20821260,112.89,113.02,111.665,03-01,0.0,0,0,0.0
+MSFT,Microsoft,2019-03-02,112.53,20821260,112.89,113.02,111.665,03-02,1296.0,2020-03-02 00:00:00,virtual shutdown one world’s biggest economy hurting business around globe multinational firm truck driver tour guide china stopped economy tackle coronavirus world suffers,-1.0
+MSFT,Microsoft,2019-03-03,112.53,20821260,112.89,113.02,111.665,03-03,0.0,0,0,0.0
+MSFT,Microsoft,2019-03-04,112.26,25869380,113.02,113.25,110.8,03-04,0.0,0,0,0.0
+MSFT,Microsoft,2019-03-05,111.7,19090780,112.25,112.39,111.23,03-05,1293.0,2020-03-05 00:00:00,bring trailer registered bidder listed car banner traditional auction market show sign cooling chatty auction site taking classic car world storm,1.0
+MSFT,Microsoft,2019-03-05,111.7,19090780,112.25,112.39,111.23,03-05,1282.0,2020-03-05 00:00:00,deadly disease arrived office employer figuring adapt workplace v coronavirus ‘no one playbook this’,-1.0
+MSFT,Microsoft,2019-03-05,111.7,19090780,112.25,112.39,111.23,03-05,1291.0,2020-03-05 00:00:00,company buy insurance usually pay halt operation it’s usually physical damage outbreak coronavirus cost business billion insurance may help,-1.0
+MSFT,Microsoft,2019-03-06,111.75,17651130,111.87,112.66,111.43,03-06,1295.0,2020-03-06 00:00:00,wideranging eyeopening interview david calhoun plane maker’s new chief took direct shot dennis muilenburg max crisis boeing’s ceo throw predecessor plane,1.0
+MSFT,Microsoft,2019-03-06,111.75,17651130,111.87,112.66,111.43,03-06,1287.0,2020-03-06 00:00:00,telling employee work home bearing misinformation removal coronavirus affecting industry week tech welcome age mandatory videoconferencing,1.0
+MSFT,Microsoft,2019-03-07,110.39,25320540,111.4,111.55,109.865,03-07,0.0,0,0,0.0
+MSFT,Microsoft,2019-03-08,110.51,22803110,109.16,110.71,108.8,03-08,1290.0,2020-03-08 00:00:00,secret lab magic cure government plot despite effort social medium company stop false information coronavirus proliferating around world surge virus misinformation stump facebook twitter,-1.0
+MSFT,Microsoft,2019-03-09,110.51,22803110,109.16,110.71,108.8,03-09,0.0,0,0,0.0
+MSFT,Microsoft,2019-03-10,110.51,22803110,109.16,110.71,108.8,03-10,0.0,0,0,0.0
+MSFT,Microsoft,2019-03-11,112.83,24525610,110.99,112.95,110.98,03-11,1292.0,2020-03-11 00:00:00,samsung want excite offering device foldable screen bad it’s tedious use bulky pocket samsung galaxy z flip review folding phone that’s dud,-1.0
+MSFT,Microsoft,2019-03-11,112.83,24525610,110.99,112.95,110.98,03-11,1297.0,2020-03-11 00:00:00,we’ll hearing lot idea plowing taxpayer money u economy outbreak spread coronavirus damage spread talk turn bailouts,0.0
+MSFT,Microsoft,2019-03-12,113.62,26103480,112.82,113.99,112.6499,03-12,0.0,0,0,0.0
+MSFT,Microsoft,2019-03-13,114.5,35311160,114.13,115.0,113.78,03-13,1279.0,2020-03-13 00:00:00,mr gate founded company paul allen four decade ago also step board berkshire hathaway bill gate stepping microsoft’s board,0.0
+MSFT,Microsoft,2019-03-13,114.5,35311160,114.13,115.0,113.78,03-13,1298.0,2020-03-13 00:00:00,trillion dollar market value erased several global exchange suffered steepest fall since black monday crash market’s worst day decade go,-1.0
+MSFT,Microsoft,2019-03-13,114.5,35311160,114.13,115.0,113.78,03-13,1281.0,2020-03-13 00:00:00,action came amazon contended lost deal potential interference president trump pentagon asks reconsider awarding huge cloud contract amazon,1.0
+MSFT,Microsoft,2019-03-14,114.59,30414810,114.54,115.2,114.33,03-14,0.0,0,0,0.0
+MSFT,Microsoft,2019-03-15,115.91,54025470,115.34,117.25,114.59,03-15,1278.0,2020-03-15 00:00:00,executive headquarters mile one country’s worst coronavirus outbreak among first confront impact ahead pack microsoft told worker stay home,-1.0
+MSFT,Microsoft,2019-03-16,115.91,54025470,115.34,117.25,114.59,03-16,1299.0,2020-03-16 00:00:00,central bank reopening crisis playbook coronavirus brings economy halt fighting pandemic isn’t mortgage meltdown big bet may enough,0.0
+MSFT,Microsoft,2019-03-17,115.91,54025470,115.34,117.25,114.59,03-17,0.0,0,0,0.0
+MSFT,Microsoft,2019-03-18,117.57,31098780,116.17,117.61,116.05,03-18,0.0,0,0,0.0
+MSFT,Microsoft,2019-03-19,117.65,35304130,118.09,118.44,116.99,03-19,0.0,0,0,0.0
+MSFT,Microsoft,2019-03-20,117.52,26110540,117.39,118.75,116.71,03-20,1294.0,2020-03-20 00:00:00,little doubt severe economic downturn awaits bad get depends nature government response coronavirus bailouts begin take shape,-1.0
+MSFT,Microsoft,2019-03-21,120.22,29747140,117.135,120.82,117.09,03-21,0.0,0,0,0.0
+MSFT,Microsoft,2019-03-22,117.05,32346990,119.5,119.59,117.04,03-22,0.0,0,0,0.0
+MSFT,Microsoft,2019-03-23,117.05,32346990,119.5,119.59,117.04,03-23,1300.0,2020-03-23 00:00:00,live update stock market business news coronavirus outbreak grim news blunts federal reserve’s crisis response,-1.0
+MSFT,Microsoft,2019-03-23,117.05,32346990,119.5,119.59,117.04,03-23,1283.0,2020-03-23 00:00:00,amazon hiring aggressively meet customer demand traffic soared facebook youtube cloud computing become essential home worker big tech could emerge coronavirus crisis stronger ever,0.0
+MSFT,Microsoft,2019-03-23,117.05,32346990,119.5,119.59,117.04,03-23,1280.0,2020-03-23 00:00:00,technology amazon apple google ibm microsoft misidentified percent word people black white people fared much better racial divide speechrecognition system researcher say,1.0
+MSFT,Microsoft,2019-03-24,117.05,32346990,119.5,119.59,117.04,03-24,0.0,0,0,0.0
+MSFT,Microsoft,2019-03-25,117.66,26641480,116.56,118.01,116.3224,03-25,0.0,0,0,0.0
+MSFT,Microsoft,2019-03-26,117.91,25986230,118.62,118.705,116.85,03-26,1285.0,2020-03-26 00:00:00,people going online pandemic internet traffic exploded that’s taking toll download speed video quality surging traffic slowing internet,0.0
+MSFT,Microsoft,2019-03-27,116.77,22669440,117.875,118.21,115.5215,03-27,1286.0,2020-03-27 00:00:00,dependent technology ever handle strain week tech we’re testing much internet handle,1.0
+MSFT,Microsoft,2019-03-27,116.77,22669440,117.875,118.21,115.5215,03-27,1284.0,2020-03-27 00:00:00,strategy could inspire donor want know quickest way ensure dollar biggest impact philanthropist helping crisis,0.0
+MSFT,Microsoft,2019-03-27,116.77,22669440,117.875,118.21,115.5215,03-27,1288.0,2020-03-27 00:00:00,we’re highlighting heartening thing caught attention world mobilizes coronavirus pandemic it’s bad here’s proof,-1.0
+MSFT,Microsoft,2019-03-28,116.93,17527550,117.44,117.58,116.13,03-28,0.0,0,0,0.0
+MSFT,Microsoft,2019-03-29,117.94,25375220,118.07,118.32,116.96,03-29,0.0,0,0,0.0
+MSFT,Microsoft,2019-03-30,117.94,25375220,118.07,118.32,116.96,03-30,1289.0,2020-03-30 00:00:00,coronavirus crisis required ramping factory make ventilator government’s ability harness factory capacity crumpled failure policy planning,-1.0
+MSFT,Microsoft,2019-03-31,117.94,25375220,118.07,118.32,116.96,03-31,0.0,0,0,0.0
+MSFT,Microsoft,2019-04-01,119.02,19885780,118.95,119.1085,118.1,04-01,0.0,0,0,0.0
+MSFT,Microsoft,2019-04-02,119.19,16413430,119.06,119.48,118.52,04-02,1306.0,2020-04-02 00:00:00,internet giant investing hundred million dollar effort first original game crucible released next month amazon push making video game streaming play,-1.0
+MSFT,Microsoft,2019-04-03,119.97,22354020,119.86,120.43,119.15,04-03,0.0,0,0,0.0
+MSFT,Microsoft,2019-04-04,119.36,20090610,120.1,120.23,118.38,04-04,0.0,0,0,0.0
+MSFT,Microsoft,2019-04-05,119.89,15737990,119.39,120.23,119.37,04-05,0.0,0,0,0.0
+MSFT,Microsoft,2019-04-06,119.89,15737990,119.39,120.23,119.37,04-06,0.0,0,0,0.0
+MSFT,Microsoft,2019-04-07,119.89,15737990,119.39,120.23,119.37,04-07,1305.0,2020-04-07 00:00:00,many stuck home pandemic american spending life online habit changed virus changed way internet,1.0
+MSFT,Microsoft,2019-04-08,119.93,15113170,119.81,120.02,118.64,04-08,1309.0,2020-04-08 00:00:00,popular app offered simplest path videoconferencing pandemic doesn’t make right path take lesson learning zoom,1.0
+MSFT,Microsoft,2019-04-08,119.93,15113170,119.81,120.02,118.64,04-08,1307.0,2020-04-08 00:00:00,entry fee waived indefinitely interest playing video game surge coronavirus pandemic google make stadium gaming service free,0.0
+MSFT,Microsoft,2019-04-09,119.28,17275470,118.63,119.54,118.58,04-09,0.0,0,0,0.0
+MSFT,Microsoft,2019-04-10,120.19,14540330,119.76,120.35,119.54,04-10,0.0,0,0,0.0
+MSFT,Microsoft,2019-04-11,120.33,13758010,120.54,120.85,119.92,04-11,0.0,0,0,0.0
+MSFT,Microsoft,2019-04-12,120.95,19719730,120.64,120.98,120.37,04-12,0.0,0,0,0.0
+MSFT,Microsoft,2019-04-13,120.95,19719730,120.64,120.98,120.37,04-13,0.0,0,0,0.0
+MSFT,Microsoft,2019-04-14,120.95,19719730,120.64,120.98,120.37,04-14,1303.0,2020-04-14 00:00:00,never necessity internet clear cost go without ‘we better’ one plan erase america’s digital divide,1.0
+MSFT,Microsoft,2019-04-15,121.05,15526260,120.94,121.58,120.57,04-15,0.0,0,0,0.0
+MSFT,Microsoft,2019-04-16,120.77,14054870,121.64,121.65,120.1,04-16,0.0,0,0,0.0
+MSFT,Microsoft,2019-04-17,121.77,19012080,121.24,121.85,120.54,04-17,1314.0,2020-04-17 00:00:00,urgency pandemic made charlie warzel opinion writer time question belief danger location tracking privacy absolutist isn’t sure anymore,1.0
+MSFT,Microsoft,2019-04-17,121.77,19012080,121.24,121.85,120.54,04-17,1320.0,2020-04-17 00:00:00,market abuzz early data trial antiviral drug president trump unveils guideline restarting u economy prescription reviving economy,1.0
+MSFT,Microsoft,2019-04-17,121.77,19012080,121.24,121.85,120.54,04-17,1304.0,2020-04-17 00:00:00,microsoft cofounder turned philanthropist attacked falsehood created coronavirus want profit bill gate odds trump virus becomes rightwing target,0.0
+MSFT,Microsoft,2019-04-18,123.37,27651970,122.19,123.52,121.3018,04-18,0.0,0,0,0.0
+MSFT,Microsoft,2019-04-19,123.37,27651970,122.19,123.52,121.3018,04-19,1312.0,2020-04-19 00:00:00,video game surging popularity pandemic facebook rolling app designed creating watching live gameplay facebook introduce app gaming,-1.0
+MSFT,Microsoft,2019-04-20,123.37,27651970,122.19,123.52,121.3018,04-20,1322.0,2020-04-20 00:00:00,dropbox privately paid top hacker find bug software videoconferencing company zoom pressed fix zoom’s security woe secret business partner like dropbox,1.0
+MSFT,Microsoft,2019-04-21,123.37,27651970,122.19,123.52,121.3018,04-21,1318.0,2020-04-21 00:00:00,price barrel oil dropped zero reflecting shortterm technical factor longterm fundamental recovery seems remote pay give oil away,-1.0
+MSFT,Microsoft,2019-04-21,123.37,27651970,122.19,123.52,121.3018,04-21,1302.0,2020-04-21 00:00:00,coronavirus pandemic offering mixed news new challenge gaming company independent corporate gaming sale production,1.0
+MSFT,Microsoft,2019-04-22,123.76,14825150,122.62,124.0,122.57,04-22,1315.0,2020-04-22 00:00:00,largest bet social network developing market million people gone online recent year facebook invests billion indian internet giant jio,1.0
+MSFT,Microsoft,2019-04-23,125.44,23539620,124.1,125.58,123.83,04-23,0.0,0,0,0.0
+MSFT,Microsoft,2019-04-24,125.01,29919920,125.79,125.85,124.52,04-24,1319.0,2020-04-24 00:00:00,facebook google behemoth training sight silicon valley’s company moment zoom’s biggest rival coming,0.0
+MSFT,Microsoft,2019-04-25,129.15,37927120,130.06,131.37,128.83,04-25,0.0,0,0,0.0
+MSFT,Microsoft,2019-04-26,129.89,23306180,129.7,130.5152,129.02,04-26,0.0,0,0,0.0
+MSFT,Microsoft,2019-04-27,129.89,23306180,129.7,130.5152,129.02,04-27,1321.0,2020-04-27 00:00:00,u government’s smallbusiness rescue fund reopens today outrage remains bigger company tapped first round loan loan fury,1.0
+MSFT,Microsoft,2019-04-27,129.89,23306180,129.7,130.5152,129.02,04-27,1313.0,2020-04-27 00:00:00,“it works” powerful word technology best doesn’t win,1.0
+MSFT,Microsoft,2019-04-28,129.89,23306180,129.7,130.5152,129.02,04-28,1301.0,2020-04-28 00:00:00,virus outbreak supercharged continuing shift market giant company exerting influence direction stock since tech boom investor bet giant company dominate crisis,0.0
+MSFT,Microsoft,2019-04-28,129.89,23306180,129.7,130.5152,129.02,04-28,1316.0,2020-04-28 00:00:00,latest stock market business news coronavirus outbreak consumer survey show continued concern,1.0
+MSFT,Microsoft,2019-04-29,129.77,16179580,129.9,130.18,129.35,04-29,1323.0,2020-04-29 00:00:00,latest stock market business news coronavirus outbreak wall street rally fed promise shore economy,1.0
+MSFT,Microsoft,2019-04-29,129.77,16179580,129.9,130.18,129.35,04-29,1310.0,2020-04-29 00:00:00,company reported rising revenue profit first quarter said also saving expense facebook point ‘signs stability’ ad decline flatten,1.0
+MSFT,Microsoft,2019-04-29,129.77,16179580,129.9,130.18,129.35,04-29,1311.0,2020-04-29 00:00:00,elizabeth warren alexandria ocasiocortez escalated washington pushback introducing bill block many corporate acquisition deal pandemic,1.0
+MSFT,Microsoft,2019-04-29,129.77,16179580,129.9,130.18,129.35,04-29,1317.0,2020-04-29 00:00:00,trillion stimulus dollar convinced wall street government back investor seizing even glimmer good news pandemic bad news won’t stop market keep rising,1.0
+MSFT,Microsoft,2019-04-30,130.6,24041490,129.81,130.7,129.3947,04-30,1308.0,2020-04-30 00:00:00,earnings call investor executive addressing effect pandemic radically different way elon musk mark zuckerberg aren’t page,0.0
+MSFT,Microsoft,2019-04-30,130.6,24041490,129.81,130.7,129.3947,04-30,1324.0,2020-04-30 00:00:00,latest stock market business news coronavirus outbreak u stock best month since,1.0
+MSFT,Microsoft,2019-05-01,127.88,26821690,130.53,130.65,127.7,05-01,1332.0,2020-05-01 00:00:00,lawmaker want question mr bezos amazon’s chief executive part antitrust investigation congress call jeff bezos amazon testify,0.0
+MSFT,Microsoft,2019-05-01,127.88,26821690,130.53,130.65,127.7,05-01,1331.0,2020-05-01 00:00:00,successful company anxious know we’re scary time big tech’s worry worry,0.0
+MSFT,Microsoft,2019-05-02,126.21,27350160,127.98,128.0,125.52,05-02,0.0,0,0,0.0
+MSFT,Microsoft,2019-05-03,128.9,24911130,127.36,129.43,127.25,05-03,1329.0,2020-05-03 00:00:00,country’s economy starting reopen health official warn moving fast week business who’s ready go shopping,1.0
+MSFT,Microsoft,2019-05-04,128.9,24911130,127.36,129.43,127.25,05-04,0.0,0,0,0.0
+MSFT,Microsoft,2019-05-05,128.9,24911130,127.36,129.43,127.25,05-05,0.0,0,0,0.0
+MSFT,Microsoft,2019-05-06,128.15,24239460,126.39,128.56,126.11,05-06,0.0,0,0,0.0
+MSFT,Microsoft,2019-05-07,125.52,36017660,126.46,127.18,124.22,05-07,1336.0,2020-05-07 00:00:00,latest stock market business news coronavirus outbreak stock rise tech index,1.0
+MSFT,Microsoft,2019-05-08,125.51,28419000,125.44,126.37,124.75,05-08,0.0,0,0,0.0
+MSFT,Microsoft,2019-05-09,125.5,27235840,124.29,125.79,123.57,05-09,1335.0,2020-05-09 00:00:00,video showcasing baseless argument dr judy mikovits including attack dr anthony fauci viewed eight million time past week virus conspiracists elevate new champion,-1.0
+MSFT,Microsoft,2019-05-10,127.13,30915080,124.91,127.93,123.82,05-10,1326.0,2020-05-10 00:00:00,two intertwined american psyche since stock crash onset great depression stock reliable gauge overall economic health repeat market economy,1.0
+MSFT,Microsoft,2019-05-11,127.13,30915080,124.91,127.93,123.82,05-11,0.0,0,0,0.0
+MSFT,Microsoft,2019-05-12,127.13,30915080,124.91,127.93,123.82,05-12,1334.0,2020-05-12 00:00:00,central bank buy corporate bond first time history part eagerly anticipated package pandemic rescue measure fed buying etf today,1.0
+MSFT,Microsoft,2019-05-13,123.35,33944920,124.11,125.55,123.04,05-13,0.0,0,0,0.0
+MSFT,Microsoft,2019-05-14,124.73,25266320,123.87,125.88,123.7,05-14,1325.0,2020-05-14 00:00:00,microsoft chief say recovery like “dial” “switch” worry lost everybody work home satya nadella think,0.0
+MSFT,Microsoft,2019-05-14,124.73,25266320,123.87,125.88,123.7,05-14,1337.0,2020-05-14 00:00:00,latest stock market business news coronavirus outbreak wall street recovers day turbulent trading,1.0
+MSFT,Microsoft,2019-05-15,126.02,24722710,124.26,126.71,123.7,05-15,0.0,0,0,0.0
+MSFT,Microsoft,2019-05-16,128.93,30112220,126.75,129.38,126.46,05-16,1330.0,2020-05-16 00:00:00,case may joined state attorney general would one biggest antitrust action united state since late u said plan file antitrust charge google,-1.0
+MSFT,Microsoft,2019-05-17,128.07,25770540,128.305,130.46,127.92,05-17,0.0,0,0,0.0
+MSFT,Microsoft,2019-05-18,128.07,25770540,128.305,130.46,127.92,05-18,0.0,0,0,0.0
+MSFT,Microsoft,2019-05-19,128.07,25770540,128.305,130.46,127.92,05-19,0.0,0,0,0.0
+MSFT,Microsoft,2019-05-20,126.22,23706930,126.52,127.5894,125.7607,05-20,1333.0,2020-05-20 00:00:00,previous financial crisis gave rise highprofile american company spread coronavirus challenge entrepreneur meet new need pandemic right time start business might,1.0
+MSFT,Microsoft,2019-05-21,126.9,15293260,127.43,127.5273,126.58,05-21,0.0,0,0,0.0
+MSFT,Microsoft,2019-05-22,127.67,15396490,126.62,128.24,126.52,05-22,1327.0,2020-05-22 00:00:00,here’s one question matter google rig system squash rival hurt u shouting google,0.0
+MSFT,Microsoft,2019-05-23,126.18,23603810,126.2,126.29,124.74,05-23,0.0,0,0,0.0
+MSFT,Microsoft,2019-05-24,126.24,14123360,126.91,127.415,125.97,05-24,0.0,0,0,0.0
+MSFT,Microsoft,2019-05-25,126.24,14123360,126.91,127.415,125.97,05-25,0.0,0,0,0.0
+MSFT,Microsoft,2019-05-26,126.24,14123360,126.91,127.415,125.97,05-26,1328.0,2020-05-26 00:00:00,state ease lockdown order american eating booking flight buying house here’s look like reopening chart,0.0
+MSFT,Microsoft,2019-05-27,126.24,14123360,126.91,127.415,125.97,05-27,0.0,0,0,0.0
+MSFT,Microsoft,2019-05-28,126.16,23128360,126.98,128.0,126.05,05-28,0.0,0,0,0.0
+MSFT,Microsoft,2019-05-29,124.94,22763140,125.38,125.39,124.04,05-29,0.0,0,0,0.0
+MSFT,Microsoft,2019-05-30,125.73,16829610,125.26,125.76,124.78,05-30,0.0,0,0,0.0
+MSFT,Microsoft,2019-05-31,123.68,26646770,124.23,124.615,123.32,05-31,0.0,0,0,0.0
+MSFT,Microsoft,2019-06-01,123.68,26646770,124.23,124.615,123.32,06-01,0.0,0,0,0.0
+MSFT,Microsoft,2019-06-02,123.68,26646770,124.23,124.615,123.32,06-02,0.0,0,0,0.0
+MSFT,Microsoft,2019-06-03,119.84,37983640,123.85,124.37,119.01,06-03,0.0,0,0,0.0
+MSFT,Microsoft,2019-06-04,123.16,29382640,121.28,123.28,120.6522,06-04,1339.0,2020-06-04 00:00:00,placate european regulator company started giving android phone user choice search engine set device google’s european search menu draw interest u antitrust investigator,0.0
+MSFT,Microsoft,2019-06-05,125.83,24926140,124.95,125.87,124.21,06-05,1360.0,2020-06-05 00:00:00,latest stock market business news coronavirus outbreak unexpected drop u unemployment help market rally,1.0
+MSFT,Microsoft,2019-06-06,127.82,21458960,126.44,127.97,125.6,06-06,0.0,0,0,0.0
+MSFT,Microsoft,2019-06-07,131.4,33885590,129.19,132.25,128.26,06-07,0.0,0,0,0.0
+MSFT,Microsoft,2019-06-08,131.4,33885590,129.19,132.25,128.26,06-08,1354.0,2020-06-08 00:00:00,sp climbed back began year day economist said united state fell recession february despite recession stock market turn positive year,1.0
+MSFT,Microsoft,2019-06-09,131.4,33885590,129.19,132.25,128.26,06-09,1344.0,2020-06-09 00:00:00,new research show scientist educated china help american firm school dominate cuttingedge field industry leader worry worsening political tension blunt edge u secret weapon ai chinese talent,-1.0
+MSFT,Microsoft,2019-06-09,131.4,33885590,129.19,132.25,128.26,06-09,1353.0,2020-06-09 00:00:00,ever since mark zuckerberg defended platform’s handsoff policy toward post president trump contained misinformation promoted violence company staying away ‘morally impossible’ advertiser take timeout facebook,-1.0
+MSFT,Microsoft,2019-06-10,132.6,26477100,132.4,134.08,132.0,06-10,1340.0,2020-06-10 00:00:00,company said hoped moratorium “might give congress enough time put place appropriate rules” technology amazon pause police use facial recognition software,1.0
+MSFT,Microsoft,2019-06-11,132.1,23913730,133.88,134.24,131.2757,06-11,0.0,0,0,0.0
+MSFT,Microsoft,2019-06-12,131.49,17092460,131.4,131.97,130.71,06-12,0.0,0,0,0.0
+MSFT,Microsoft,2019-06-13,132.32,17200850,131.98,132.67,131.56,06-13,1338.0,2020-06-13 00:00:00,many company retreating amazon apple facebook google microsoft placing bet get even bigger economy reeling tech giant spy opportunity,1.0
+MSFT,Microsoft,2019-06-14,132.45,17821700,132.26,133.79,131.64,06-14,0.0,0,0,0.0
+MSFT,Microsoft,2019-06-15,132.45,17821700,132.26,133.79,131.64,06-15,1363.0,2020-06-15 00:00:00,latest stock market business news coronavirus outbreak stock climb fed detail bondbuying plan,1.0
+MSFT,Microsoft,2019-06-16,132.45,17821700,132.26,133.79,131.64,06-16,1346.0,2020-06-16 00:00:00,digital companion may sound like science fiction social isolation became norm helped deal loneliness user say riding quarantine chatbot friend ‘i feel connected’,1.0
+MSFT,Microsoft,2019-06-17,132.85,14517790,132.63,133.73,132.53,06-17,1357.0,2020-06-17 00:00:00,year hey want help u restore control new service way go — email come think tackling unsolvable problem bottomless email inbox,1.0
+MSFT,Microsoft,2019-06-18,135.16,25934460,134.19,135.24,133.57,06-18,1350.0,2020-06-18 00:00:00,business grapple safely reopen workplace company like fitbit verily google’s sister company rushing new work force healthvetting tracking tool big tech zero virustesting market,1.0
+MSFT,Microsoft,2019-06-18,135.16,25934460,134.19,135.24,133.57,06-18,1361.0,2020-06-18 00:00:00,latest stock market business news coronavirus outbreak jobless claim show another million filing,1.0
+MSFT,Microsoft,2019-06-19,135.69,23744440,135.0,135.93,133.81,06-19,1343.0,2020-06-19 00:00:00,sridhar ramaswamy ran google’s billion advertising arm grew disillusioned worried growth much priority former google executive take aim old company startup,1.0
+MSFT,Microsoft,2019-06-19,135.69,23744440,135.0,135.93,133.81,06-19,1352.0,2020-06-19 00:00:00,apple could announce plan soon monday replace intel processor mac chip designed year apple prepares break intel,0.0
+MSFT,Microsoft,2019-06-20,136.95,33042590,137.45,137.66,135.72,06-20,0.0,0,0,0.0
+MSFT,Microsoft,2019-06-21,136.97,36727890,136.58,137.73,136.46,06-21,1356.0,2020-06-21 00:00:00,hiring trough seems passed opportunity industry least buffeted coronavirus shutdown new hope whitecollar job seeker depends job,-1.0
+MSFT,Microsoft,2019-06-22,136.97,36727890,136.58,137.73,136.46,06-22,1349.0,2020-06-22 00:00:00,move announced livestreamed start company’s conference developer mark end year partnership apple ditch intel chip mac consolidates power,0.0
+MSFT,Microsoft,2019-06-22,136.97,36727890,136.58,137.73,136.46,06-22,1362.0,2020-06-22 00:00:00,live stock market update coronavirus pandemic wall street start week gain,1.0
+MSFT,Microsoft,2019-06-23,136.97,36727890,136.58,137.73,136.46,06-23,1359.0,2020-06-23 00:00:00,president trump move restrict workbased immigration business world — particularly silicon valley — speaking visa fury,1.0
+MSFT,Microsoft,2019-06-23,136.97,36727890,136.58,137.73,136.46,06-23,1342.0,2020-06-23 00:00:00,many claim employee hyper efficient working home social emotional cost ambition isolation company productive pandemic,1.0
+MSFT,Microsoft,2019-06-24,137.78,20628840,137.0,138.4,137.0,06-24,1347.0,2020-06-24 00:00:00,jeff ubben leaving hedge fund founded new venture focused “inclusive capitalism” think traditional finance played activist investor done finance,1.0
+MSFT,Microsoft,2019-06-24,137.78,20628840,137.0,138.4,137.0,06-24,1358.0,2020-06-24 00:00:00,racist graffiti missed promotion employee say “systemic pattern racial bias” permeates company amazon worker urge bezos match word race action,1.0
+MSFT,Microsoft,2019-06-25,133.43,33327420,137.25,137.59,132.73,06-25,1341.0,2020-06-25 00:00:00,attorney general william barr’s attention justice department investigation show high stake agency barr’s interest google antitrust case keep moving swiftly,1.0
+MSFT,Microsoft,2019-06-26,133.93,23657750,134.35,135.74,133.6,06-26,1351.0,2020-06-26 00:00:00,giving surged coronavirus crisis eclipsing donation recession sept terrorist attack two report show philanthropy rise pandemic donor heed call help,0.0
+MSFT,Microsoft,2019-06-26,133.93,23657750,134.35,135.74,133.6,06-26,1345.0,2020-06-26 00:00:00,latest stock market business news coronavirus outbreak stock slide texas roll back reopening,1.0
+MSFT,Microsoft,2019-06-26,133.93,23657750,134.35,135.74,133.6,06-26,1355.0,2020-06-26 00:00:00,effort pressure facebook crack hate speech misinformation prompted dozen advertiser say they’ll stop spending platform biggest company involved cv dunkin’ lego brand pulling ad facebook hate speech,-1.0
+MSFT,Microsoft,2019-06-27,134.15,16557480,134.14,134.71,133.51,06-27,0.0,0,0,0.0
+MSFT,Microsoft,2019-06-28,133.96,30042970,134.57,134.6,133.1558,06-28,0.0,0,0,0.0
+MSFT,Microsoft,2019-06-29,133.96,30042970,134.57,134.6,133.1558,06-29,0.0,0,0,0.0
+MSFT,Microsoft,2019-06-30,133.96,30042970,134.57,134.6,133.1558,06-30,1348.0,2020-06-30 00:00:00,proposal give scientist access huge data set powerful computer university tech giant back national cloud computing project,1.0
+MSFT,Microsoft,2019-07-01,135.68,22654160,136.63,136.7,134.97,07-01,1377.0,2020-07-01 00:00:00,hearing month would central moment continuing backlash power amazon facebook alphabet apple four top tech ceo testify antitrust inquiry panel say,1.0
+MSFT,Microsoft,2019-07-01,135.68,22654160,136.63,136.7,134.97,07-01,1384.0,2020-07-01 00:00:00,stock market recorded best quarter decade biggest quartertoquarter swing since epic reversal fortune,1.0
+MSFT,Microsoft,2019-07-01,135.68,22654160,136.63,136.7,134.97,07-01,1383.0,2020-07-01 00:00:00,pandemicinduced recession it’s important ever take care smartphones gadget make tech last longer,1.0
+MSFT,Microsoft,2019-07-02,136.58,15237840,136.12,136.59,135.34,07-02,0.0,0,0,0.0
+MSFT,Microsoft,2019-07-03,137.46,13629300,136.8,137.74,136.295,07-03,0.0,0,0,0.0
+MSFT,Microsoft,2019-07-04,137.46,13629300,136.8,137.74,136.295,07-04,0.0,0,0,0.0
+MSFT,Microsoft,2019-07-05,137.06,18141140,135.94,137.33,135.72,07-05,0.0,0,0,0.0
+MSFT,Microsoft,2019-07-06,137.06,18141140,135.94,137.33,135.72,07-06,0.0,0,0,0.0
+MSFT,Microsoft,2019-07-07,137.06,18141140,135.94,137.33,135.72,07-07,1366.0,2020-07-07 00:00:00,peggy johnson led microsoft’s business development take struggling virtual reality startup august magic leap hire top microsoft executive ceo,1.0
+MSFT,Microsoft,2019-07-08,136.96,16779750,136.4,137.1,135.3701,07-08,1389.0,2020-07-08 00:00:00,civil right group criticized company’s top executive mark zuckerberg sheryl sandberg meeting policy hate speech facebook’s big meeting didn’t go well,-1.0
+MSFT,Microsoft,2019-07-08,136.96,16779750,136.4,137.1,135.3701,07-08,1370.0,2020-07-08 00:00:00,buzz tyler blevins also known ninja generated streaming new platform showed power famous content creator video game industry ninja played fortnite youtube gaming world lost mind,1.0
+MSFT,Microsoft,2019-07-09,136.46,19953100,136.0,136.97,135.8,07-09,1376.0,2020-07-09 00:00:00,technology stock led wall street higher wednesday trading unsteady investor considered spreading coronavirus outbreak new friction united state china technology stock rally leading nasdaq record,1.0
+MSFT,Microsoft,2019-07-10,137.85,24204360,137.13,138.58,137.02,07-10,0.0,0,0,0.0
+MSFT,Microsoft,2019-07-11,138.4,22327940,138.2,139.22,137.87,07-11,0.0,0,0,0.0
+MSFT,Microsoft,2019-07-12,138.9,18936830,138.85,139.13,138.0099,07-12,0.0,0,0,0.0
+MSFT,Microsoft,2019-07-13,138.9,18936830,138.85,139.13,138.0099,07-13,1385.0,2020-07-13 00:00:00,even group regularly disagree labor issue said significant public investment program upgrade skill american worker pandemic accelerated demand skilled work force,1.0
+MSFT,Microsoft,2019-07-14,138.9,18936830,138.85,139.13,138.0099,07-14,1381.0,2020-07-14 00:00:00,small number large company tied executive compensation goal hiring promotion worker underrepresented group want diversity expert say reward ceo,-1.0
+MSFT,Microsoft,2019-07-15,138.9,16651460,139.44,139.54,138.46,07-15,1386.0,2020-07-15 00:00:00,big bank say could get worse get better ‘moment truth’,1.0
+MSFT,Microsoft,2019-07-15,138.9,16651460,139.44,139.54,138.46,07-15,1378.0,2020-07-15 00:00:00,entertainment business big advertiser noticeably silent industry protest social network’s handling hate speech hollywood stay away facebook ad boycott,-1.0
+MSFT,Microsoft,2019-07-15,138.9,16651460,139.44,139.54,138.46,07-15,1373.0,2020-07-15 00:00:00,past year bank america surveyed fund manager positioning portfolio consensus emerges bank’s pollster say investor generally profit betting according today’s dealbook newsletter buying tech stock ‘most crowded’ trade history,1.0
+MSFT,Microsoft,2019-07-16,137.08,22726130,138.96,139.05,136.52,07-16,0.0,0,0,0.0
+MSFT,Microsoft,2019-07-17,136.27,20210960,137.7,137.93,136.22,07-17,0.0,0,0,0.0
+MSFT,Microsoft,2019-07-18,136.42,30808710,135.55,136.62,134.67,07-18,0.0,0,0,0.0
+MSFT,Microsoft,2019-07-19,136.62,48992360,140.22,140.67,136.45,07-19,0.0,0,0,0.0
+MSFT,Microsoft,2019-07-20,136.62,48992360,140.22,140.67,136.45,07-20,1375.0,2020-07-20 00:00:00,company listed sp report latest earnings week far percent bluechip company released secondquarter result beat analyst expectation according factset keep here’s business news watch week,1.0
+MSFT,Microsoft,2019-07-20,136.62,48992360,140.22,140.67,136.45,07-20,1388.0,2020-07-20 00:00:00,corporate leader increasingly gloomy economic recovery citing fight mask prospect renewed lockdown ceo say ‘it’s grind’,1.0
+MSFT,Microsoft,2019-07-20,136.62,48992360,140.22,140.67,136.45,07-20,1374.0,2020-07-20 00:00:00,black creative professional say used lend legitimacy diversity campaign underpaid pigeonholed rush use black art leaf artist feeling used,1.0
+MSFT,Microsoft,2019-07-21,136.62,48992360,140.22,140.67,136.45,07-21,1369.0,2020-07-21 00:00:00,new analysis show company funded political effort undermine public stance say one thing donate another,1.0
+MSFT,Microsoft,2019-07-21,136.62,48992360,140.22,140.67,136.45,07-21,1368.0,2020-07-21 00:00:00,world expects corporation untenable support social environmental cause giving money even indirectly candidate oppose company back cause fund politician doesn’t give,1.0
+MSFT,Microsoft,2019-07-22,138.43,25080760,137.41,139.19,137.33,07-22,1365.0,2020-07-22 00:00:00,complaint filed europe threatens microsoft’s recent ability avoid regulatory scrutiny slack accuses microsoft illegally crushing competition,1.0
+MSFT,Microsoft,2019-07-23,139.29,18034590,139.76,139.99,138.03,07-23,1371.0,2020-07-23 00:00:00,five largest stock sp account percent index’s market capitalization according goldman sachs soaring share price alphabet amazon apple facebook microsoft — set new high month — led record degree market concentration make analyst nervous note dealbook newsletter analyst worry topheavy stock market,1.0
+MSFT,Microsoft,2019-07-23,139.29,18034590,139.76,139.99,138.03,07-23,1372.0,2020-07-23 00:00:00,unexpected profit pushed tesla’s turbocharged share even higher electriccar maker join sp soon elon musk delivers big surprise,1.0
+MSFT,Microsoft,2019-07-24,140.72,20738280,138.9,140.74,138.85,07-24,0.0,0,0,0.0
+MSFT,Microsoft,2019-07-25,140.19,18356880,140.43,140.61,139.3215,07-25,0.0,0,0,0.0
+MSFT,Microsoft,2019-07-26,141.34,19037600,140.37,141.675,140.3,07-26,0.0,0,0,0.0
+MSFT,Microsoft,2019-07-27,141.34,19037600,140.37,141.675,140.3,07-27,0.0,0,0,0.0
+MSFT,Microsoft,2019-07-28,141.34,19037600,140.37,141.675,140.3,07-28,1382.0,2020-07-28 00:00:00,tech ceo appear together congressional hearing wednesday argue company stifle competition amazon apple facebook google prepare ‘big tobacco moment’,0.0
+MSFT,Microsoft,2019-07-29,141.03,16605870,141.5,141.51,139.3663,07-29,1387.0,2020-07-29 00:00:00,ceo likely argue congress company aren’t anticompetitive fact handbook today’s tech hearing,0.0
+MSFT,Microsoft,2019-07-29,141.03,16605870,141.5,141.51,139.3663,07-29,1380.0,2020-07-29 00:00:00,chief amazon apple google facebook faced withering question democrat anticompetitive practice republican anticonservative bias lawmaker united ire lash big tech’s leader,0.0
+MSFT,Microsoft,2019-07-30,140.35,16846530,140.14,141.2199,139.8005,07-30,1379.0,2020-07-30 00:00:00,even though tech industry’s four biggest company stung slowdown spending reported combined billion profit thursday economy record decline tech giant,0.0
+MSFT,Microsoft,2019-07-31,136.27,38598790,140.33,140.49,135.08,07-31,1367.0,2020-07-31 00:00:00,lawmaker debate whether apple google facebook amazon monopoly reporter recall attempt avoid interacting company tried live without tech giant impossible,-1.0
+MSFT,Microsoft,2019-07-31,136.27,38598790,140.33,140.49,135.08,07-31,1364.0,2020-07-31 00:00:00,discussion come tiktok’s ownership chinese company scrutiny white house lawmaker microsoft said talk buy tiktok trump weighs curtailing app,0.0
+MSFT,Microsoft,2019-08-01,138.06,40557500,137.0,140.9383,136.93,08-01,1427.0,2020-08-01 00:00:00,major advertiser facebook reduced spending million dollar july enough significantly damage platform’s revenue company boycotted facebook work,1.0
+MSFT,Microsoft,2019-08-01,138.06,40557500,137.0,140.9383,136.93,08-01,1406.0,2020-08-01 00:00:00,president trump talking banning app tiktok may also sell u operation let’s sort what’s going tiktok here’s know,0.0
+MSFT,Microsoft,2019-08-01,138.06,40557500,137.0,140.9383,136.93,08-01,1408.0,2020-08-01 00:00:00,trump administration said video app pose security concern chinese ownership bytedance said offer sell tiktok’s u operation,0.0
+MSFT,Microsoft,2019-08-02,136.9,30791620,138.09,138.32,135.26,08-02,0.0,0,0,0.0
+MSFT,Microsoft,2019-08-03,136.9,30791620,138.09,138.32,135.26,08-03,1405.0,2020-08-03 00:00:00,president’s intervention company dealing based instinct departure arm’slength approach predecessor either party tiktok trump impulse act ceo corporate america,0.0
+MSFT,Microsoft,2019-08-03,136.9,30791620,138.09,138.32,135.26,08-03,1431.0,2020-08-03 00:00:00,researcher university chicago want able post selfies without worrying next clearview ai use identify tool could protect photo facial recognition,1.0
+MSFT,Microsoft,2019-08-03,136.9,30791620,138.09,138.32,135.26,08-03,1392.0,2020-08-03 00:00:00,buying one largest influential social network country could change perception tech giant tiktok ‘uncool’ microsoft aim love tweens,1.0
+MSFT,Microsoft,2019-08-03,136.9,30791620,138.09,138.32,135.26,08-03,1394.0,2020-08-03 00:00:00,president said object potential acquisition chineseowned app retreating comment banning service trump revers course tiktok opening door microsoft bid,0.0
+MSFT,Microsoft,2019-08-03,136.9,30791620,138.09,138.32,135.26,08-03,1393.0,2020-08-03 00:00:00,potential blockbuster deal could go different way would microsoft tiktok,0.0
+MSFT,Microsoft,2019-08-03,136.9,30791620,138.09,138.32,135.26,08-03,1416.0,2020-08-03 00:00:00,founder bytedance zhang yiming dreamed building global tech company based china geopolitical reality set tiktok’s owner tried failed cross uschina divide,-1.0
+MSFT,Microsoft,2019-08-04,136.9,30791620,138.09,138.32,135.26,08-04,0.0,0,0,0.0
+MSFT,Microsoft,2019-08-05,132.21,42749550,133.3,133.9298,130.78,08-05,1428.0,2020-08-05 00:00:00,advocate racial equality long pointed uneven playing field business world company fix racial injustice corporate america,-1.0
+MSFT,Microsoft,2019-08-05,132.21,42749550,133.3,133.9298,130.78,08-05,1404.0,2020-08-05 00:00:00,tiktok’s valuable asset hypereffective algorithm community popular creator may easy acquire company tiktok good buy depends what’s included,1.0
+MSFT,Microsoft,2019-08-06,134.69,32696650,133.8,135.68,133.21,08-06,0.0,0,0,0.0
+MSFT,Microsoft,2019-08-07,135.28,33414540,133.79,135.65,131.8284,08-07,1413.0,2020-08-07 00:00:00,saying apple forced change month rejection social network releasing version iphone ipad user today facebook gaming finally clear apple hurdle arriving app store,-1.0
+MSFT,Microsoft,2019-08-07,135.28,33414540,133.79,135.65,131.8284,08-07,1410.0,2020-08-07 00:00:00,government cited national security concern announcing sweeping restriction two popular chinese social medium network move likely met retaliation trump target wechat tiktok sharp escalation china,1.0
+MSFT,Microsoft,2019-08-08,138.89,27496510,136.6,138.99,135.93,08-08,0.0,0,0,0.0
+MSFT,Microsoft,2019-08-09,137.71,23466700,138.61,139.38,136.46,08-09,0.0,0,0,0.0
+MSFT,Microsoft,2019-08-10,137.71,23466700,138.61,139.38,136.46,08-10,0.0,0,0,0.0
+MSFT,Microsoft,2019-08-11,137.71,23466700,138.61,139.38,136.46,08-11,1420.0,2020-08-11 00:00:00,new nonprofit new york job ceo council work university city group create new curriculum apprenticeship next decade ceo pledge hire lowincome minority new yorkers,1.0
+MSFT,Microsoft,2019-08-11,137.71,23466700,138.61,139.38,136.46,08-11,1422.0,2020-08-11 00:00:00,fastfood giant’s suit former ceo may prompt company review pay severance policy mcdonald’s morality,0.0
+MSFT,Microsoft,2019-08-12,135.79,20484350,137.07,137.86,135.24,08-12,1403.0,2020-08-12 00:00:00,tech company met government agency wednesday fight disinformation social medium google facebook others broaden group secure u election,1.0
+MSFT,Microsoft,2019-08-13,138.6,25496590,136.05,138.8,135.0,08-13,1430.0,2020-08-13 00:00:00,qanon longer ignored internet company could stop spread playbook combating qanon,0.0
+MSFT,Microsoft,2019-08-13,138.6,25496590,136.05,138.8,135.0,08-13,1434.0,2020-08-13 00:00:00,epic game maker popular game provoked tech giant violating policy released social medium campaign lawsuit confront fortnite creator sue apple google ban app store,-1.0
+MSFT,Microsoft,2019-08-14,133.98,32527250,136.36,136.92,133.67,08-14,1417.0,2020-08-14 00:00:00,app maker like game company epic music service spotify challenging apple’s right large cut sale regulator taken notice apple’s app store cut became boon headache,1.0
+MSFT,Microsoft,2019-08-14,133.98,32527250,136.36,136.92,133.67,08-14,1402.0,2020-08-14 00:00:00,three current former employee expressed concern chineseowned app’s safeguard preteen child third tiktok’s u user may raising safety question,0.0
+MSFT,Microsoft,2019-08-15,133.68,28125420,134.39,134.58,132.25,08-15,1415.0,2020-08-15 00:00:00,president last week gave bytedance day sell stake else face u restriction added day deadline national security law trump officially order tiktok’s chinese owner divest,0.0
+MSFT,Microsoft,2019-08-16,136.13,25026150,134.88,136.46,134.72,08-16,1433.0,2020-08-16 00:00:00,million child flocked online gaming site roblox since march that’s helping game developer young make lot money tween pandemic gaming site,-1.0
+MSFT,Microsoft,2019-08-17,136.13,25026150,134.88,136.46,134.72,08-17,1424.0,2020-08-17 00:00:00,chineseowned app negotiates potential sale signing different sort deal tiktok make deal one,0.0
+MSFT,Microsoft,2019-08-18,136.13,25026150,134.88,136.46,134.72,08-18,1401.0,2020-08-18 00:00:00,new suitor emerges tiktok white house imposes restriction huawei net effect move could fracturing web tiktok huawei ‘splinternet’,1.0
+MSFT,Microsoft,2019-08-18,136.13,25026150,134.88,136.46,134.72,08-18,1400.0,2020-08-18 00:00:00,investor cast nearly relentless drumbeat bad news aside focus sign worst coronavirus pandemic might ‘this market nuts’ sp hit record defying economic devastation,-1.0
+MSFT,Microsoft,2019-08-19,138.41,24370540,137.855,138.55,136.885,08-19,1438.0,2020-08-19 00:00:00,new stock market high may seem strange set human economic devastation pandemic here’s investor justifying going,1.0
+MSFT,Microsoft,2019-08-19,138.41,24370540,137.855,138.55,136.885,08-19,1412.0,2020-08-19 00:00:00,apple first u company hit value staggering ascent began pandemic apple reach trillion punctuating big tech’s grip,1.0
+MSFT,Microsoft,2019-08-19,138.41,24370540,137.855,138.55,136.885,08-19,1409.0,2020-08-19 00:00:00,president trump pushing sale chineseowned video app say whether oracle would better buyer microsoft trump say oracle could ‘handle’ owning tiktok,1.0
+MSFT,Microsoft,2019-08-19,138.41,24370540,137.855,138.55,136.885,08-19,1399.0,2020-08-19 00:00:00,economy contract many company struggle survive biggest tech company amassing wealth influence way unseen decade big tech’s domination business reach new height,1.0
+MSFT,Microsoft,2019-08-20,137.26,21189000,138.21,138.71,137.24,08-20,1423.0,2020-08-20 00:00:00,iphone maker first u company hit trillion valuation high go apple’s trillion,1.0
+MSFT,Microsoft,2019-08-21,138.79,14982310,138.55,139.4935,138.0,08-21,0.0,0,0,0.0
+MSFT,Microsoft,2019-08-22,137.78,18709660,138.66,139.2,136.29,08-22,1425.0,2020-08-22 00:00:00,popular video app owned chinese internet company said deprived due process president trump moved block united state tiktok challenge trump administration executive order,1.0
+MSFT,Microsoft,2019-08-23,133.39,38515390,137.19,138.35,132.8,08-23,0.0,0,0,0.0
+MSFT,Microsoft,2019-08-24,133.39,38515390,137.19,138.35,132.8,08-24,1414.0,2020-08-24 00:00:00,suit escalates bitter backandforth popular video app american official tiktok sue u government trump ban,1.0
+MSFT,Microsoft,2019-08-24,133.39,38515390,137.19,138.35,132.8,08-24,1435.0,2020-08-24 00:00:00,chineseowned video app plan sue trump administration order force sale face long odds tiktok lose,-1.0
+MSFT,Microsoft,2019-08-25,133.39,38515390,137.19,138.35,132.8,08-25,1436.0,2020-08-25 00:00:00,spacs getting started according major player wall street urge reverse merge,1.0
+MSFT,Microsoft,2019-08-25,133.39,38515390,137.19,138.35,132.8,08-25,1421.0,2020-08-25 00:00:00,tim sweeney chief executive epic game maker fortnite railed tech power “the market control” said fight apple google’s grip fortnite creator mount crusade,-1.0
+MSFT,Microsoft,2019-08-25,133.39,38515390,137.19,138.35,132.8,08-25,1432.0,2020-08-25 00:00:00,amazon signal growth india office hyderabad largest world local business owner pushing back south india amazon build largest office yet,0.0
+MSFT,Microsoft,2019-08-26,135.45,20325270,134.99,135.56,133.9,08-26,1418.0,2020-08-26 00:00:00,tech startup named object “the lord rings” become major government contractor easy understand what’s palantir tech industry’s next big ipo,1.0
+MSFT,Microsoft,2019-08-26,135.45,20325270,134.99,135.56,133.9,08-26,1391.0,2020-08-26 00:00:00,neither side wanted big deal began talk small investment ballooned intervention president trump tiktok’s talk microsoft turned soap opera,-1.0
+MSFT,Microsoft,2019-08-26,135.45,20325270,134.99,135.56,133.9,08-26,1407.0,2020-08-26 00:00:00,talk microsoft bytedance parent company tiktok turn soap opera mike isaac andrew ross sorkin spoke dozen people understand happened trump administration began scrutinizing popular app behind scene tiktok’s talk microsoft,1.0
+MSFT,Microsoft,2019-08-26,135.45,20325270,134.99,135.56,133.9,08-26,1398.0,2020-08-26 00:00:00,flurry tech company filing go public — well one — even make profit palantir ant tech listing boom,0.0
+MSFT,Microsoft,2019-08-27,135.74,23115640,136.39,136.72,134.66,08-27,1396.0,2020-08-27 00:00:00,sale video app’s u operation entering final stage two group submitted bid tiktok said wrestle two competing offer,0.0
+MSFT,Microsoft,2019-08-27,135.74,23115640,136.39,136.72,134.66,08-27,1429.0,2020-08-27 00:00:00,less four month announcing joining video app mr mayer said leaving tiktok pressure trump administration tiktok chief executive kevin mayer resigns,-1.0
+MSFT,Microsoft,2019-08-27,135.74,23115640,136.39,136.72,134.66,08-27,1426.0,2020-08-27 00:00:00,pro sport going strike industry follow entertainment power push racial justice,0.0
+MSFT,Microsoft,2019-08-28,135.56,17410830,134.88,135.76,133.55,08-28,1390.0,2020-08-28 00:00:00,tech giant example operate nation’s capital successful influence operation bid tiktok microsoft flex power washington,1.0
+MSFT,Microsoft,2019-08-28,135.56,17410830,134.88,135.76,133.55,08-28,1411.0,2020-08-28 00:00:00,microsoft new ally walmart oracle submitted takeover bid video app deal could reached soon time tiktok’s talk ticking,1.0
+MSFT,Microsoft,2019-08-28,135.56,17410830,134.88,135.76,133.55,08-28,1419.0,2020-08-28 00:00:00,app’s chinese version douyin trying become mobile marketplace video star promote product could model u retail giant acquires tiktok walmart want tiktok looking china may explain,0.0
+MSFT,Microsoft,2019-08-29,138.12,20179720,137.25,138.44,136.91,08-29,1397.0,2020-08-29 00:00:00,thhour twist beijing raised potential hurdle sale tiktok roiling race buy chineseowned app tiktok deal complicated new rule china tech export,-1.0
+MSFT,Microsoft,2019-08-30,137.86,23946120,139.15,139.18,136.27,08-30,0.0,0,0,0.0
+MSFT,Microsoft,2019-08-31,137.86,23946120,139.15,139.18,136.27,08-31,1395.0,2020-08-31 00:00:00,china’s new export rule could delay scuttle sale tiktok turned giant company pawn geopolitical struggle tiktok deal face complication u china ratchet titfortat,1.0
+MSFT,Microsoft,2019-08-31,137.86,23946120,139.15,139.18,136.27,08-31,1437.0,2020-08-31 00:00:00,billionaire hedge fund manager talk buy new york mets pivotal moment sport business — reputation steven cohen’s redemption tour,1.0
+MSFT,Microsoft,2019-09-01,137.86,23946120,139.15,139.18,136.27,09-01,0.0,0,0,0.0
+MSFT,Microsoft,2019-09-02,137.86,23946120,139.15,139.18,136.27,09-02,0.0,0,0,0.0
+MSFT,Microsoft,2019-09-03,136.04,18880770,136.61,137.2,135.7,09-03,1461.0,2020-09-03 00:00:00,billionaire making million donation four institution effort improve health wealth black community bloomberg give big black medical school,-1.0
+MSFT,Microsoft,2019-09-03,136.04,18880770,136.61,137.2,135.7,09-03,1443.0,2020-09-03 00:00:00,sp dropped percent thursday biggest singleday fall since june big tech company weighed heavily wall street worst day month,-1.0
+MSFT,Microsoft,2019-09-04,137.63,18015310,137.3,137.69,136.48,09-04,1462.0,2020-09-04 00:00:00,stock market worst day since june sharp selloff tech stock dragged everything happened going,-1.0
+MSFT,Microsoft,2019-09-04,137.63,18015310,137.3,137.69,136.48,09-04,1446.0,2020-09-04 00:00:00,tech giant stand silicon valley close tie administration must bless deal social medium app tiktok bid highlight oracle’s public embrace trump,1.0
+MSFT,Microsoft,2019-09-04,137.63,18015310,137.3,137.69,136.48,09-04,1450.0,2020-09-04 00:00:00,march trump administration ordered study enabling widespread release malaria drug hydroxychloroquine treat covid one first question director government research agency would oversee trial asked “who talked oracle” oracle’s embrace trump go beyond bid tiktok,1.0
+MSFT,Microsoft,2019-09-04,137.63,18015310,137.3,137.69,136.48,09-04,1441.0,2020-09-04 00:00:00,amazon rival billion contract complained president trump interfered process pentagon stick microsoft cloud computing contract,-1.0
+MSFT,Microsoft,2019-09-04,137.63,18015310,137.3,137.69,136.48,09-04,1449.0,2020-09-04 00:00:00,day sp worst performance month stock mostly reversed steep early loss friday still closed week percent latest high stock slide promising week turn south,1.0
+MSFT,Microsoft,2019-09-05,140.05,26119520,139.11,140.3837,138.76,09-05,1460.0,2020-09-05 00:00:00,pandemic policy tech company created rift parent offered benefit resentful worker don’t child parent got time backlash started,0.0
+MSFT,Microsoft,2019-09-06,139.1,20824500,140.03,140.18,138.2,09-06,0.0,0,0,0.0
+MSFT,Microsoft,2019-09-07,139.1,20824500,140.03,140.18,138.2,09-07,0.0,0,0,0.0
+MSFT,Microsoft,2019-09-08,139.1,20824500,140.03,140.18,138.2,09-08,0.0,0,0,0.0
+MSFT,Microsoft,2019-09-09,137.52,25773930,139.59,139.75,136.46,09-09,0.0,0,0,0.0
+MSFT,Microsoft,2019-09-10,136.08,28903380,136.8,136.8862,134.51,09-10,1452.0,2020-09-10 00:00:00,month speculation one world’s famous video gamers announced next move return king ninja video game star go back twitch,1.0
+MSFT,Microsoft,2019-09-11,136.12,24726120,135.91,136.27,135.09,09-11,1453.0,2020-09-11 00:00:00,author seek prompt critical thinking money status power accrued several expert offered take four question help demystify relationship money,0.0
+MSFT,Microsoft,2019-09-11,136.12,24726120,135.91,136.27,135.09,09-11,1456.0,2020-09-11 00:00:00,team meeting industry convention moved online pandemic opened many door closed network home,1.0
+MSFT,Microsoft,2019-09-11,136.12,24726120,135.91,136.27,135.09,09-11,1454.0,2020-09-11 00:00:00,vanessa pappa keeping focus app’s community creator user deal pressure president trump beijing possible sale woman taking tiktok toughest time,0.0
+MSFT,Microsoft,2019-09-12,137.52,27009980,137.85,138.42,136.87,09-12,0.0,0,0,0.0
+MSFT,Microsoft,2019-09-13,137.32,23363060,137.78,138.06,136.57,09-13,1440.0,2020-09-13 00:00:00,move came clock tick president trump’s executive order block chineseowned social medium app oracle chosen tiktok’s tech partner microsoft’s bid rejected,1.0
+MSFT,Microsoft,2019-09-14,137.32,23363060,137.78,138.06,136.57,09-14,1451.0,2020-09-14 00:00:00,unexpected late twist longrunning drama sale chinese video app tiktok saga end,-1.0
+MSFT,Microsoft,2019-09-14,137.32,23363060,137.78,138.06,136.57,09-14,1459.0,2020-09-14 00:00:00,bytedance’s founder long urged employee think beyond world’s economy growth easing competition rising tiktok owner’s big reason strike u deal china slowing,-1.0
+MSFT,Microsoft,2019-09-14,137.32,23363060,137.78,138.06,136.57,09-14,1448.0,2020-09-14 00:00:00,chineseowned app designed compromise satisfy u security concern term review trump administration tiktok’s proposed deal seek mollify u china,0.0
+MSFT,Microsoft,2019-09-15,137.32,23363060,137.78,138.06,136.57,09-15,1442.0,2020-09-15 00:00:00,gamers awaiting sony’s playstation microsoft’s xbox series x though supply might limited pandemic coming fall return video game console war,-1.0
+MSFT,Microsoft,2019-09-16,136.33,16731440,135.83,136.7,135.66,09-16,1464.0,2020-09-16 00:00:00,sending worker home colleague test positive coronavirus fact life month come isn’t jpmorgan’s problem,1.0
+MSFT,Microsoft,2019-09-17,137.39,17976290,136.96,137.52,136.425,09-17,1445.0,2020-09-17 00:00:00,fastly percent year zscaler percent chegg veeva percent percent tech universe dominated apple amazon microsoft google share price little company you’ve probably never heard soaring small tech stock posting eyepopping gain,-1.0
+MSFT,Microsoft,2019-09-17,137.39,17976290,136.96,137.52,136.425,09-17,1457.0,2020-09-17 00:00:00,giant aren’t one subset software streaming security ecommerce firm also posting eyepopping gain small tech stock soar future arrives early,-1.0
+MSFT,Microsoft,2019-09-18,138.52,24473390,137.36,138.67,136.5299,09-18,1447.0,2020-09-18 00:00:00,said administration’s policy driving away technology talent could longterm damage industry computing pioneer endorse biden citing trump immigration crackdown,0.0
+MSFT,Microsoft,2019-09-19,141.07,36095410,140.3,142.37,140.0736,09-19,0.0,0,0,0.0
+MSFT,Microsoft,2019-09-20,139.44,40040770,141.01,141.65,138.25,09-20,0.0,0,0,0.0
+MSFT,Microsoft,2019-09-21,139.44,40040770,141.01,141.65,138.25,09-21,1444.0,2020-09-21 00:00:00,billion acquisition doubleclick “game changer” growing number antitrust expert say it’s sort deal longer possible deal helped turn google ad powerhouse problem,-1.0
+MSFT,Microsoft,2019-09-21,139.44,40040770,141.01,141.65,138.25,09-21,1439.0,2020-09-21 00:00:00,company’s acquisition zenimax medium put strong position sony week release next generation gaming console microsoft grab world’s biggest game billion deal,1.0
+MSFT,Microsoft,2019-09-22,139.44,40040770,141.01,141.65,138.25,09-22,1455.0,2020-09-22 00:00:00,involves tiktok deal deal,0.0
+MSFT,Microsoft,2019-09-22,139.44,40040770,141.01,141.65,138.25,09-22,1458.0,2020-09-22 00:00:00,environmental benefit lower labor cost mass timber grown market could rival steel concrete construction industry concern climate change rise developer turn wood,1.0
+MSFT,Microsoft,2019-09-23,139.14,17408370,139.23,139.63,138.44,09-23,0.0,0,0,0.0
+MSFT,Microsoft,2019-09-24,137.38,30016670,140.36,140.69,136.88,09-24,0.0,0,0,0.0
+MSFT,Microsoft,2019-09-25,139.36,22544050,137.5,139.958,136.03,09-25,0.0,0,0,0.0
+MSFT,Microsoft,2019-09-26,139.54,17813510,139.44,140.18,138.44,09-26,0.0,0,0,0.0
+MSFT,Microsoft,2019-09-27,137.73,22498960,140.15,140.36,136.645,09-27,0.0,0,0,0.0
+MSFT,Microsoft,2019-09-28,137.73,22498960,140.15,140.36,136.645,09-28,1463.0,2020-09-28 00:00:00,major investigation president trump’s finance show business reported huge loss may part plan much trump win losing,1.0
+MSFT,Microsoft,2019-09-29,137.73,22498960,140.15,140.36,136.645,09-29,0.0,0,0,0.0
+MSFT,Microsoft,2019-09-30,139.03,18430390,138.05,139.215,137.78,09-30,0.0,0,0,0.0
+MSFT,Microsoft,2019-10-01,137.07,22581930,139.66,140.25,137.0,10-01,0.0,0,0,0.0
+MSFT,Microsoft,2019-10-02,134.65,32001760,136.25,136.37,133.5799,10-02,1487.0,2020-10-02 00:00:00,president clash court company investor say tougher limit temporary work visa help push job overseas trump crack visa indian firm may benefit,-1.0
+MSFT,Microsoft,2019-10-02,134.65,32001760,136.25,136.37,133.5799,10-02,1496.0,2020-10-02 00:00:00,everything flux trump test positive come next,1.0
+MSFT,Microsoft,2019-10-03,136.28,26379800,134.95,136.75,133.22,10-03,0.0,0,0,0.0
+MSFT,Microsoft,2019-10-04,138.12,23839550,136.75,138.25,136.42,10-04,0.0,0,0,0.0
+MSFT,Microsoft,2019-10-05,138.12,23839550,136.75,138.25,136.42,10-05,0.0,0,0,0.0
+MSFT,Microsoft,2019-10-06,138.12,23839550,136.75,138.25,136.42,10-06,1494.0,2020-10-06 00:00:00,president trump’s comment upon return hospital may pose problem business reopenings ‘don’t afraid it’,-1.0
+MSFT,Microsoft,2019-10-06,138.12,23839550,136.75,138.25,136.42,10-06,1469.0,2020-10-06 00:00:00,report led democrat lawmaker said apple amazon google facebook needed checked recommended restructured antitrust law reformed house lawmaker condemn big tech’s ‘monopoly power’ urge breakup,0.0
+MSFT,Microsoft,2019-10-06,138.12,23839550,136.75,138.25,136.42,10-06,1484.0,2020-10-06 00:00:00,house report limit reach apple amazon google facebook delayed democrat republican split remedy big tech enemy partisanship fractured battle plan,0.0
+MSFT,Microsoft,2019-10-07,137.12,16601280,137.14,138.18,137.02,10-07,1490.0,2020-10-07 00:00:00,president trump cut stimulus talk what’s strategy relief sight,0.0
+MSFT,Microsoft,2019-10-08,135.67,26783340,137.08,137.76,135.62,10-08,1473.0,2020-10-08 00:00:00,splitup strategy reflects decisively computing shifted cloud ibm seeing future cloud break unit,0.0
+MSFT,Microsoft,2019-10-08,135.67,26783340,137.08,137.76,135.62,10-08,1466.0,2020-10-08 00:00:00,company added powerful voice raging debate much focused apple tech company manage app store microsoft say app store competitive,1.0
+MSFT,Microsoft,2019-10-08,135.67,26783340,137.08,137.76,135.62,10-08,1480.0,2020-10-08 00:00:00,complaint say contractor hcl refused negotiate union retaliated shipping work poland labor board accuses google contractor violating union right,-1.0
+MSFT,Microsoft,2019-10-09,138.24,20178480,137.46,138.7,136.97,10-09,1481.0,2020-10-09 00:00:00,fortnite’s parent company epic game broken contract apple federal judge found case go trial next year apple need return fortnite app store judge rule,-1.0
+MSFT,Microsoft,2019-10-09,138.24,20178480,137.46,138.7,136.97,10-09,1493.0,2020-10-09 00:00:00,wall street stalwart betting investor want boring morgan stanley’s makeover,-1.0
+MSFT,Microsoft,2019-10-10,139.1,18396610,138.49,139.6699,138.25,10-10,0.0,0,0,0.0
+MSFT,Microsoft,2019-10-11,139.68,25551070,140.12,141.03,139.5,10-11,0.0,0,0,0.0
+MSFT,Microsoft,2019-10-12,139.68,25551070,140.12,141.03,139.5,10-12,1488.0,2020-10-12 00:00:00,leon black whose billion fortune could buy best counsel world paid least million mr epstein advice service others deserted billionaire stood jeffrey epstein,1.0
+MSFT,Microsoft,2019-10-12,139.68,25551070,140.12,141.03,139.5,10-12,1495.0,2020-10-12 00:00:00,billionaire chief apollo global management far deeper relationship previously known new question leon black’s tie jeffrey epstein,-1.0
+MSFT,Microsoft,2019-10-12,139.68,25551070,140.12,141.03,139.5,10-12,1485.0,2020-10-12 00:00:00,customer make people target inescapable corporate advocacy can’t escape uber’s lobbying,0.0
+MSFT,Microsoft,2019-10-13,139.68,25551070,140.12,141.03,139.5,10-13,1477.0,2020-10-13 00:00:00,ford microsoft whitecollar company increasingly extending working home next summer july new january company delay return office,1.0
+MSFT,Microsoft,2019-10-14,139.55,13591640,139.69,140.29,139.52,10-14,0.0,0,0,0.0
+MSFT,Microsoft,2019-10-15,141.575,19917760,140.06,141.79,139.81,10-15,0.0,0,0,0.0
+MSFT,Microsoft,2019-10-16,140.41,20841690,140.79,140.99,139.53,10-16,0.0,0,0,0.0
+MSFT,Microsoft,2019-10-17,139.69,22102800,140.95,141.42,139.02,10-17,0.0,0,0,0.0
+MSFT,Microsoft,2019-10-18,137.41,32284430,139.76,140.0,136.56,10-18,1486.0,2020-10-18 00:00:00,ultranauts developing creative way hire manage motivate farflung diverse work force seven year remote inclusive year showing company,1.0
+MSFT,Microsoft,2019-10-19,137.41,32284430,139.76,140.0,136.56,10-19,0.0,0,0,0.0
+MSFT,Microsoft,2019-10-20,137.41,32284430,139.76,140.0,136.56,10-20,1472.0,2020-10-20 00:00:00,suit first antitrust action company result investigation american regulator happening antitrust suit google,1.0
+MSFT,Microsoft,2019-10-20,137.41,32284430,139.76,140.0,136.56,10-20,1478.0,2020-10-20 00:00:00,victory government could remake one america’s recognizable company internet economy helped define u accuses google illegally protecting monopoly,-1.0
+MSFT,Microsoft,2019-10-20,137.41,32284430,139.76,140.0,136.56,10-20,1465.0,2020-10-20 00:00:00,justice department’s antitrust case point restrictive contract focus professor said “is old sherman act” google law thwarted microsoft others since,1.0
+MSFT,Microsoft,2019-10-20,137.41,32284430,139.76,140.0,136.56,10-20,1489.0,2020-10-20 00:00:00,partisan infighting may take pressure tech giant case big tech,0.0
+MSFT,Microsoft,2019-10-21,138.43,20716040,138.45,138.5,137.01,10-21,1476.0,2020-10-21 00:00:00,sundar pichai chief executive google’s parent company less year already face internet giant’s biggest threat year readers’ guide coverage google antitrust case,-1.0
+MSFT,Microsoft,2019-10-21,138.43,20716040,138.45,138.5,137.01,10-21,1471.0,2020-10-21 00:00:00,need know antitrust case tech giant google,0.0
+MSFT,Microsoft,2019-10-21,138.43,20716040,138.45,138.5,137.01,10-21,1479.0,2020-10-21 00:00:00,unlikely collection lawyer activist economist academic fueling tech backlash armed funding billionaire sponsor big tech’s professional opponent strike google,-1.0
+MSFT,Microsoft,2019-10-21,138.43,20716040,138.45,138.5,137.01,10-21,1475.0,2020-10-21 00:00:00,sundar pichai chief executive google’s parent company less year already face internet giant’s biggest threat year google antitrust fight thrust lowkey ceo line fire,-1.0
+MSFT,Microsoft,2019-10-21,138.43,20716040,138.45,138.5,137.01,10-21,1470.0,2020-10-21 00:00:00,department justice’s lawsuit google big complicated could take year resolve today’s dealbook newsletter address five question arise government’s action five question antitrust case google,-1.0
+MSFT,Microsoft,2019-10-22,136.37,27935270,138.97,140.01,136.26,10-22,1482.0,2020-10-22 00:00:00,startup’s demise may bad investor seems quibi’s quick end,-1.0
+MSFT,Microsoft,2019-10-22,136.37,27935270,138.97,140.01,136.26,10-22,1468.0,2020-10-22 00:00:00,even justice department sued google antitrust expert wondered whether different government response would effective forget antitrust law limit tech say new regulator needed,1.0
+MSFT,Microsoft,2019-10-22,136.37,27935270,138.97,140.01,136.26,10-22,1474.0,2020-10-22 00:00:00,jeffrey rosen deputy attorney general said justice department knew company would use many resource fight agency top investigator google case say ‘was rush’ sue,1.0
+MSFT,Microsoft,2019-10-23,137.24,31380310,136.88,137.45,135.61,10-23,0.0,0,0,0.0
+MSFT,Microsoft,2019-10-24,139.94,37278400,139.39,140.42,138.67,10-24,0.0,0,0,0.0
+MSFT,Microsoft,2019-10-25,140.73,25959720,139.34,141.14,139.2,10-25,1467.0,2020-10-25 00:00:00,landmark antitrust complaint justice department targeting secretive partnership worth billion dollar company apple google deal control internet,0.0
+MSFT,Microsoft,2019-10-26,140.73,25959720,139.34,141.14,139.2,10-26,1492.0,2020-10-26 00:00:00,restaurant chain pandemic success story dunkin’ worth nearly billion,1.0
+MSFT,Microsoft,2019-10-27,140.73,25959720,139.34,141.14,139.2,10-27,0.0,0,0,0.0
+MSFT,Microsoft,2019-10-28,144.19,35280140,144.4,145.67,143.51,10-28,1491.0,2020-10-28 00:00:00,company putting million black latinoled venture capital firm paypal invests racial equality,-1.0
+MSFT,Microsoft,2019-10-29,142.83,20589470,144.08,144.5,142.65,10-29,1483.0,2020-10-29 00:00:00,amazon apple facebook alphabet reported latest string enormous quarterly profit thursday big tech continues surge ahead rest economy,1.0
+MSFT,Microsoft,2019-10-30,144.61,18496590,143.52,145.0,142.79,10-30,0.0,0,0,0.0
+MSFT,Microsoft,2019-10-31,143.37,24605140,144.9,144.93,142.99,10-31,0.0,0,0,0.0
+MSFT,Microsoft,2019-11-01,143.72,33128370,144.26,144.42,142.965,11-01,0.0,0,0,0.0
+MSFT,Microsoft,2019-11-02,143.72,33128370,144.26,144.42,142.965,11-02,0.0,0,0,0.0
+MSFT,Microsoft,2019-11-03,143.72,33128370,144.26,144.42,142.965,11-03,0.0,0,0,0.0
+MSFT,Microsoft,2019-11-04,144.55,16912000,144.83,145.0,144.16,11-04,1505.0,2020-11-04 00:00:00,investor pushed stock company believed would protected republican senate even joe biden win presidency ‘blue wave’ chance crash wall st warms divided government,1.0
+MSFT,Microsoft,2019-11-04,144.55,16912000,144.83,145.0,144.16,11-04,1508.0,2020-11-04 00:00:00,three thing say certainty know election right,1.0
+MSFT,Microsoft,2019-11-05,144.46,18250170,144.97,145.02,143.905,11-05,1498.0,2020-11-05 00:00:00,nice hardware check fair price check cool exclusive game tbd xbox series x review microsoft’s new console good value enough,1.0
+MSFT,Microsoft,2019-11-06,144.06,16575800,144.37,144.52,143.2,11-06,1501.0,2020-11-06 00:00:00,winning combination solid hardware software sony’s new console make u excited next generation gaming playstation review sony’s new console entertaining behemoth,1.0
+MSFT,Microsoft,2019-11-07,144.26,17786720,143.84,144.88,143.77,11-07,0.0,0,0,0.0
+MSFT,Microsoft,2019-11-08,145.96,16752940,143.98,145.99,143.76,11-08,0.0,0,0,0.0
+MSFT,Microsoft,2019-11-09,145.96,16752940,143.98,145.99,143.76,11-09,1509.0,2020-11-09 00:00:00,increasingly outspoken trump era may biden take ceo keep speaking,0.0
+MSFT,Microsoft,2019-11-10,145.96,16752940,143.98,145.99,143.76,11-10,1504.0,2020-11-10 00:00:00,apple unveiled three new mac computer use processor company created ending reliance intel apple introduces new mac first apple chip,1.0
+MSFT,Microsoft,2019-11-10,145.96,16752940,143.98,145.99,143.76,11-10,1506.0,2020-11-10 00:00:00,margrethe vestager european commission vice president said amazon unfairly using data box smaller competitor amazon charged antitrust violation european regulator,-1.0
+MSFT,Microsoft,2019-11-10,145.96,16752940,143.98,145.99,143.76,11-10,1507.0,2020-11-10 00:00:00,toy company owner decided benefit everyone together safeguard outweighed risk readier others return back office tough call worker bos,-1.0
+MSFT,Microsoft,2019-11-11,146.11,14370180,145.34,146.42,144.73,11-11,1500.0,2020-11-11 00:00:00,gaming console coming latest version thursday become japanese giant’s centerpiece product playstation next step sony’s rebound,1.0
+MSFT,Microsoft,2019-11-12,147.07,18648710,146.28,147.57,146.06,11-12,1499.0,2020-11-12 00:00:00,video game industry notched record spending profit sustain growth must prepare compete return concert movie theater live sport new playstation xbox arrive pandemic gold rush,-1.0
+MSFT,Microsoft,2019-11-12,147.07,18648710,146.28,147.57,146.06,11-12,1502.0,2020-11-12 00:00:00,gaming console coming latest version thursday become japanese giant’s centerpiece product playstation became sony’s centerpiece product,1.0
+MSFT,Microsoft,2019-11-13,147.31,17444230,146.74,147.4625,146.28,11-13,0.0,0,0,0.0
+MSFT,Microsoft,2019-11-14,148.06,19755100,147.02,148.41,147.0,11-14,0.0,0,0,0.0
+MSFT,Microsoft,2019-11-15,149.97,23508810,148.93,149.99,148.27,11-15,0.0,0,0,0.0
+MSFT,Microsoft,2019-11-16,149.97,23508810,148.93,149.99,148.27,11-16,0.0,0,0,0.0
+MSFT,Microsoft,2019-11-17,149.97,23508810,148.93,149.99,148.27,11-17,0.0,0,0,0.0
+MSFT,Microsoft,2019-11-18,150.34,21554760,150.07,150.55,148.98,11-18,1503.0,2020-11-18 00:00:00,app maker bridled percent commission drawn scrutiny regulator looking antitrust claim apple half app store fee smaller company,-1.0
+MSFT,Microsoft,2019-11-19,150.39,23960160,150.88,151.33,150.195,11-19,0.0,0,0,0.0
+MSFT,Microsoft,2019-11-20,149.62,25720060,150.31,150.84,148.46,11-20,0.0,0,0,0.0
+MSFT,Microsoft,2019-11-21,149.48,18576080,149.4,149.8,148.501,11-21,0.0,0,0,0.0
+MSFT,Microsoft,2019-11-22,149.59,15841680,150.07,150.3,148.82,11-22,0.0,0,0,0.0
+MSFT,Microsoft,2019-11-23,149.59,15841680,150.07,150.3,148.82,11-23,0.0,0,0,0.0
+MSFT,Microsoft,2019-11-24,149.59,15841680,150.07,150.3,148.82,11-24,0.0,0,0,0.0
+MSFT,Microsoft,2019-11-25,151.23,22428590,150.0,151.35,149.92,11-25,0.0,0,0,0.0
+MSFT,Microsoft,2019-11-26,152.03,24635100,151.36,152.42,151.32,11-26,0.0,0,0,0.0
+MSFT,Microsoft,2019-11-27,152.32,15201290,152.33,152.5,151.52,11-27,0.0,0,0,0.0
+MSFT,Microsoft,2019-11-28,152.32,15201290,152.33,152.5,151.52,11-28,0.0,0,0,0.0
+MSFT,Microsoft,2019-11-29,151.38,11977300,152.1,152.3,151.28,11-29,0.0,0,0,0.0
+MSFT,Microsoft,2019-11-30,151.38,11977300,152.1,152.3,151.28,11-30,1497.0,2020-11-30 00:00:00,salesforce’s approach slack sign thing come company bet big working home,0.0
+MSFT,Microsoft,2019-12-01,151.38,11977300,152.1,152.3,151.28,12-01,1518.0,2020-12-01 00:00:00,amazon’s cloud computing business apple’s mac increasingly using companies’ homegrown chip amazon apple powering shift away intel’s chip,0.0
+MSFT,Microsoft,2019-12-01,151.38,11977300,152.1,152.3,151.28,12-01,1514.0,2020-12-01 00:00:00,move cap acquisitive streak salesforce end slack’s run independent publicly traded company salesforce acquire slack billion,0.0
+MSFT,Microsoft,2019-12-02,149.55,27473620,151.81,151.83,148.32,12-02,1511.0,2020-12-02 00:00:00,salesforce ceo’s planned acquisition slack competing directly goliath microsoft marc benioff set sight microsoft,1.0
+MSFT,Microsoft,2019-12-02,149.55,27473620,151.81,151.83,148.32,12-02,1516.0,2020-12-02 00:00:00,person writing check still important customer workplace software stink,1.0
+MSFT,Microsoft,2019-12-03,149.31,25192150,147.49,149.43,146.65,12-03,1523.0,2020-12-03 00:00:00,complaint target company’s hiring immigrant temporary visa open new front washington’s battle big tech justice dept suit say facebook discriminates u worker,-1.0
+MSFT,Microsoft,2019-12-03,149.31,25192150,147.49,149.43,146.65,12-03,1522.0,2020-12-03 00:00:00,finding point potential upward mobility people without college degree million u skill earn researcher say,0.0
+MSFT,Microsoft,2019-12-03,149.31,25192150,147.49,149.43,146.65,12-03,1534.0,2020-12-03 00:00:00,percent borrower received quarter loan federal paycheck protection program got rescued,0.0
+MSFT,Microsoft,2019-12-04,149.85,17580620,150.14,150.1799,149.2,12-04,0.0,0,0,0.0
+MSFT,Microsoft,2019-12-05,149.93,17880600,150.05,150.32,149.48,12-05,0.0,0,0,0.0
+MSFT,Microsoft,2019-12-06,151.75,16410400,150.99,151.87,150.27,12-06,0.0,0,0,0.0
+MSFT,Microsoft,2019-12-07,151.75,16410400,150.99,151.87,150.27,12-07,1521.0,2020-12-07 00:00:00,tearjerker scene reminder coronavirus pandemic part notsocheery seasonal ad blitz hard year holiday commercial get real,-1.0
+MSFT,Microsoft,2019-12-08,151.75,16410400,150.99,151.87,150.27,12-08,1525.0,2020-12-08 00:00:00,silicon valley company said hacker — almost certainly russian — made tool could used mount new attack around world fireeye top cybersecurity firm say hacked nationstate,1.0
+MSFT,Microsoft,2019-12-09,151.36,16741350,151.07,152.21,150.91,12-09,1531.0,2020-12-09 00:00:00,regulator accusing company buying rising rival cement dominance social medium u state say facebook illegally crushed competition,-1.0
+MSFT,Microsoft,2019-12-10,151.13,16481060,151.29,151.89,150.765,12-10,0.0,0,0,0.0
+MSFT,Microsoft,2019-12-11,151.7,18860000,151.54,151.87,150.33,12-11,0.0,0,0,0.0
+MSFT,Microsoft,2019-12-12,153.24,24645370,151.65,153.44,151.02,12-12,0.0,0,0,0.0
+MSFT,Microsoft,2019-12-13,154.53,23850060,153.004,154.89,152.83,12-13,0.0,0,0,0.0
+MSFT,Microsoft,2019-12-14,154.53,23850060,153.004,154.89,152.83,12-14,1513.0,2020-12-14 00:00:00,silicon valley building powerful influence industry brussels “never seen kind money” spent way big tech turn lobbyist loose europe alarming regulator,1.0
+MSFT,Microsoft,2019-12-14,154.53,23850060,153.004,154.89,152.83,12-14,1512.0,2020-12-14 00:00:00,regulator seek way curb company’s power focus vast index — hundred billion web page — behind search engine google dominates thanks unrivaled view web,-1.0
+MSFT,Microsoft,2019-12-14,154.53,23850060,153.004,154.89,152.83,12-14,1519.0,2020-12-14 00:00:00,group expert gathered debate prospect new white house administration’s big promise environment climate policy change,1.0
+MSFT,Microsoft,2019-12-14,154.53,23850060,153.004,154.89,152.83,12-14,1533.0,2020-12-14 00:00:00,roblox delayed debut wall street worry bubble tech ipo take breather,0.0
+MSFT,Microsoft,2019-12-15,154.53,23850060,153.004,154.89,152.83,12-15,1524.0,2020-12-15 00:00:00,european union british authority released draft law halt spread harmful content improve competition big fine strict rule unveiled ‘big tech’ europe,1.0
+MSFT,Microsoft,2019-12-15,154.53,23850060,153.004,154.89,152.83,12-15,1526.0,2020-12-15 00:00:00,process creating prefabricated unit quickly assembled shifted developer turn medical building affordable housing data center even chickfila restaurant modular construction meet changing need pandemic,1.0
+MSFT,Microsoft,2019-12-15,154.53,23850060,153.004,154.89,152.83,12-15,1530.0,2020-12-15 00:00:00,private helicopter taxi company merging blankcheck fund blade take stock market,0.0
+MSFT,Microsoft,2019-12-16,155.53,24152770,155.11,155.9,154.82,12-16,1528.0,2020-12-16 00:00:00,electionrelated falsehood subsided misleading claim coronavirus vaccine surging — often spread people voter fraud vaccine lie misinformation peddler shift gear,0.0
+MSFT,Microsoft,2019-12-16,155.53,24152770,155.11,155.9,154.82,12-16,1520.0,2020-12-16 00:00:00,“she’s disrupting norm around billionaire philanthropy moving quickly” expert charity said mackenzie scott announces billion charitable giving,1.0
+MSFT,Microsoft,2019-12-17,154.69,25443530,155.45,155.71,154.45,12-17,1515.0,2020-12-17 00:00:00,state said company downplayed website let user search information specialized area google’s legal peril grows face third antitrust suit,1.0
+MSFT,Microsoft,2019-12-18,154.37,24132380,154.3,155.48,154.18,12-18,1527.0,2020-12-18 00:00:00,electriccar maker biggest addition history benchmark index settle swing tesla profitable last bull way sp,0.0
+MSFT,Microsoft,2019-12-18,154.37,24132380,154.3,155.48,154.18,12-18,1532.0,2020-12-18 00:00:00,cryptocurrency giant’s initial public offering hold big potential — significant risk coinbase’s crypto conundrum,1.0
+MSFT,Microsoft,2019-12-19,155.71,25813830,154.0,155.77,153.75,12-19,0.0,0,0,0.0
+MSFT,Microsoft,2019-12-20,157.41,53599610,157.35,158.49,156.29,12-20,0.0,0,0,0.0
+MSFT,Microsoft,2019-12-21,157.41,53599610,157.35,158.49,156.29,12-21,1517.0,2020-12-21 00:00:00,since release highly anticipated cyberpunk video game dec thousand gamers created viral video featuring multitude glitch bug — many hilarious — mar game render virtually unplayable many user muchhyped video game turned nightmare developer,1.0
+MSFT,Microsoft,2019-12-22,157.41,53599610,157.35,158.49,156.29,12-22,0.0,0,0,0.0
+MSFT,Microsoft,2019-12-23,157.41,17726280,158.12,158.12,157.27,12-23,1529.0,2020-12-23 00:00:00,videoconferencing fitness apps best tech helped u endure hard year also low point tech fixed tech still need fixing,1.0
+MSFT,Microsoft,2019-12-24,157.38,8989150,157.48,157.71,157.115,12-24,0.0,0,0,0.0
+MSFT,Microsoft,2019-12-25,157.38,8989150,157.48,157.71,157.115,12-25,0.0,0,0,0.0
+MSFT,Microsoft,2019-12-26,158.67,14526930,157.56,158.73,157.4,12-26,0.0,0,0,0.0
+MSFT,Microsoft,2019-12-27,158.96,18414350,159.45,159.55,158.22,12-27,0.0,0,0,0.0
+MSFT,Microsoft,2019-12-28,158.96,18414350,159.45,159.55,158.22,12-28,0.0,0,0,0.0
+MSFT,Microsoft,2019-12-29,158.96,18414350,159.45,159.55,158.22,12-29,0.0,0,0,0.0
+MSFT,Microsoft,2019-12-30,157.59,16356720,158.987,159.02,156.73,12-30,0.0,0,0,0.0
+MSFT,Microsoft,2019-12-31,157.7,18393380,156.77,157.77,156.45,12-31,1510.0,2020-12-31 00:00:00,hacker gained access company previously understood though unable modify code get product email microsoft say russian hacker viewed source code,-1.0
