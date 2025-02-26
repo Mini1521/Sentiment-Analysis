@@ -1,0 +1,410 @@
+ticker_symbol,company_name,day_date,close_value,volume,open_value,high_value,low_value,month_day,Unnamed: 0,date,text,news_sentiment
+TSLA,Tesla Inc,2019-01-01,332.8,6294298,337.79,339.21,325.26,01-01,1241.0,2020-01-01 00:00:00,sale doubled industry’s tipping point — severing tie gas pump — still lie ahead car help make happen electric vehicle watch,0.0
+TSLA,Tesla Inc,2019-01-02,310.12,11611270,306.1,315.13,298.8,01-02,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-01-03,300.36,6948577,307.0,309.4,297.38,01-03,1239.0,2020-01-03 00:00:00,electriccar maker ended volatile year percent jump delivery sending share new high tesla report record output elon musk achieves goal,1.0
+TSLA,Tesla Inc,2019-01-04,317.69,7382755,306.0,318.0,302.73,01-04,1246.0,2020-01-04 00:00:00,american also continuing buy ever bigger car price escalating faster overall inflation rate low rate cheap gas deeper debt sustain car buying boom,1.0
+TSLA,Tesla Inc,2019-01-05,317.69,7382755,306.0,318.0,302.73,01-05,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-01-06,317.69,7382755,306.0,318.0,302.73,01-06,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-01-07,334.96,7542338,321.72,336.74,317.7508,01-07,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-01-08,335.35,6994427,341.96,344.01,327.02,01-08,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-01-09,338.53,5426618,335.5,343.5025,331.47,01-09,1244.0,2020-01-09 00:00:00,tech giant said would impose limit advertising despite pressure liberal conservative critic facebook won’t take misleading political ad,0.0
+TSLA,Tesla Inc,2019-01-10,344.97,6049621,334.4,345.39,331.79,01-10,1251.0,2020-01-10 00:00:00,boeing released page internal message max congress didn’t make comfortable reading ‘this airplane designed clowns’,1.0
+TSLA,Tesla Inc,2019-01-11,347.26,5035078,342.09,348.41,338.77,01-11,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-01-12,347.26,5035078,342.09,348.41,338.77,01-12,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-01-13,347.26,5035078,342.09,348.41,338.77,01-13,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-01-14,334.4,5232690,342.38,342.5,334.0,01-14,1252.0,2020-01-14 00:00:00,aventura mall near miami isn’t shy investing infrastructure widely considered one successful mall country dying mall one found way thrive,1.0
+TSLA,Tesla Inc,2019-01-15,344.43,6047890,335.0,348.8,334.5,01-15,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-01-16,346.05,4677227,344.78,352.0,343.5,01-16,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-01-17,347.31,3661162,346.21,351.5,344.15,01-17,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-01-18,302.26,24079260,323.0,327.1297,299.7301,01-18,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-01-19,302.26,24079260,323.0,327.1297,299.7301,01-19,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-01-20,302.26,24079260,323.0,327.1297,299.7301,01-20,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-01-21,302.26,24079260,323.0,327.1297,299.7301,01-21,1247.0,2020-01-21 00:00:00,police raided office latest diesel investigation major carmaker adding trouble renaultnissanmitsubishi alliance mitsubishi target emissionscheating inquiry germany,1.0
+TSLA,Tesla Inc,2019-01-22,298.92,12052130,304.82,308.0,295.5,01-22,1238.0,2020-01-22 00:00:00,chief executive could get stock award worth hundred million carmaker’s market capitalization sustained month ahead tesla value hit billion elon musk get big bonus,1.0
+TSLA,Tesla Inc,2019-01-22,298.92,12052130,304.82,308.0,295.5,01-22,1248.0,2020-01-22 00:00:00,futuristic origin seat six passenger lack steering wheel require intensive testing regulatory scrutiny hit street gm’s cruise unveils selfdriving car don’t look road,0.0
+TSLA,Tesla Inc,2019-01-23,287.59,12513080,292.5,294.5,281.69,01-23,1242.0,2020-01-23 00:00:00,china close city affected growing viral outbreak business leader world economic forum fear replay sars epidemic fear new coronavirus grip davos,1.0
+TSLA,Tesla Inc,2019-01-23,287.59,12513080,292.5,294.5,281.69,01-23,1243.0,2020-01-23 00:00:00,like central bank ecb met thursday scrambling prepare report warns could coming economic upheaval climate change could blow economy bank aren’t ready,1.0
+TSLA,Tesla Inc,2019-01-24,291.51,7990911,283.03,293.68,279.2831,01-24,1250.0,2020-01-24 00:00:00,analysis phone belonging jeff bezos found malicious code hidden video sent whatsapp account belonging crown prince mohammed bin salman week tech tech mogul’s phone saudi crown prince,-1.0
+TSLA,Tesla Inc,2019-01-25,297.04,7102781,294.39,298.5195,289.55,01-25,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-01-26,297.04,7102781,294.39,298.5195,289.55,01-26,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-01-27,297.04,7102781,294.39,298.5195,289.55,01-27,1253.0,2020-01-27 00:00:00,nba great known feat court also building reputation investor entrepreneur kobe bryant’s death cut short budding business career,1.0
+TSLA,Tesla Inc,2019-01-28,296.38,6409477,292.91,297.46,287.75,01-28,1245.0,2020-01-28 00:00:00,company gotten skilled producing topical ad bungling recent celebrity death showing tact time around kobe bryant’s death pitfall big brand,1.0
+TSLA,Tesla Inc,2019-01-29,297.46,4602933,295.27,298.5566,291.8,01-29,1237.0,2020-01-29 00:00:00,electriccar maker chief elon musk head potentially crucial year positive note tesla post million profit quarter extending rebound,1.0
+TSLA,Tesla Inc,2019-01-29,297.46,4602933,295.27,298.5566,291.8,01-29,1236.0,2020-01-29 00:00:00,faith elon musk’s company driven stock new height detractor think skepticism vindicated end tesla earnings arrive bull bear continue spar,1.0
+TSLA,Tesla Inc,2019-01-30,308.77,10594040,300.45,309.0,298.49,01-30,1240.0,2020-01-30 00:00:00,tesla reported million quarterly profit yesterday convincing backer company solved problem — doubter aren’t convinced elon musk hit back critic,1.0
+TSLA,Tesla Inc,2019-01-31,307.02,12545190,301.0,311.5636,294.0,01-31,1249.0,2020-01-31 00:00:00,american delta united halt service chinese mainland widening impact outbreak business travel major u airline suspend china flight coronavirus,1.0
+TSLA,Tesla Inc,2019-02-01,312.21,7263618,305.42,316.1,303.5,02-01,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-02-02,312.21,7263618,305.42,316.1,303.5,02-02,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-02-03,312.21,7263618,305.42,316.1,303.5,02-03,1257.0,2020-02-03 00:00:00,news battery supplier optimistic analysis helped lift electricvehicle maker’s share price monday tesla stock soar,0.0
+TSLA,Tesla Inc,2019-02-04,312.89,7344076,312.98,315.3,301.88,02-04,1263.0,2020-02-04 00:00:00,hyundai idle plant south korea pointing shortage component due coronavirus outbreak hinting trouble manufacturer virus expose crack carmakers’ chinese supply chain,-1.0
+TSLA,Tesla Inc,2019-02-04,312.89,7344076,312.98,315.3,301.88,02-04,1256.0,2020-02-04 00:00:00,trader bet tesla’s success could one pushing share price higher tesla’s stock two day what’s going,1.0
+TSLA,Tesla Inc,2019-02-05,321.35,6734739,312.49,322.44,312.2494,02-05,1260.0,2020-02-05 00:00:00,social network facebook bought billion reportedly collected billion ad revenue last year — surpassing youtube’s ad sale instagram steal century,1.0
+TSLA,Tesla Inc,2019-02-05,321.35,6734739,312.49,322.44,312.2494,02-05,1262.0,2020-02-05 00:00:00,solid economic report corporate earnings bolstered equity commodity market stock shrug outbreak worry reach new record,1.0
+TSLA,Tesla Inc,2019-02-06,317.22,5031368,319.59,324.24,315.624,02-06,1259.0,2020-02-06 00:00:00,tech giant reportedly weighing whether divest thirdparty ad business assuage antitrust regulator google shrink save,0.0
+TSLA,Tesla Inc,2019-02-07,307.51,6511830,313.3,314.7,303.0,02-07,1265.0,2020-02-07 00:00:00,virus outbreak rattled global economy disrupting supply chain closing access lucrative consumer market starbucks fedex coronavirus upends business depend china,0.0
+TSLA,Tesla Inc,2019-02-07,307.51,6511830,313.3,314.7,303.0,02-07,1264.0,2020-02-07 00:00:00,invest supporting animal welfare socially conscious fund may support chipotle burger king impossible whopper vegan end leather portfolio,-1.0
+TSLA,Tesla Inc,2019-02-08,305.8,5835078,306.83,307.445,298.5,02-08,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-02-09,305.8,5835078,306.83,307.445,298.5,02-09,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-02-10,305.8,5835078,306.83,307.445,298.5,02-10,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-02-11,312.84,7114012,311.6,318.6,310.5,02-11,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-02-12,311.81,5485419,316.2,318.19,309.62,02-12,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-02-13,308.17,5130398,312.35,312.75,305.57,02-13,1255.0,2020-02-13 00:00:00,electriccar maker said agency also looking contract “regular financing arrangements” tesla face new sec investigation,1.0
+TSLA,Tesla Inc,2019-02-14,303.77,5190887,303.38,306.77,301.0,02-14,1258.0,2020-02-14 00:00:00,airline pledge spend least billion buy emission offset invest efficient plane new fuel source carboncapture technology delta plan go carbon neutral yes read right,1.0
+TSLA,Tesla Inc,2019-02-15,307.88,3895815,304.5,308.0,303.9,02-15,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-02-16,307.88,3895815,304.5,308.0,303.9,02-16,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-02-17,307.88,3895815,304.5,308.0,303.9,02-17,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-02-18,307.88,3895815,304.5,308.0,303.9,02-18,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-02-19,305.64,4120520,306.56,311.5442,305.47,02-19,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-02-20,302.56,7132969,304.41,306.3,299.0,02-20,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-02-21,291.23,8880830,301.81,303.2399,290.5,02-21,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-02-22,294.71,5731380,294.49,296.5,292.1,02-22,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-02-23,294.71,5731380,294.49,296.5,292.1,02-23,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-02-24,294.71,5731380,294.49,296.5,292.1,02-24,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-02-25,298.77,6213701,297.91,302.9044,297.0005,02-25,1254.0,2020-02-25 00:00:00,national transportation safety board called improvement electriccar company’s driverassistance feature cited failure agency tesla autopilot system found probably fault crash,-1.0
+TSLA,Tesla Inc,2019-02-26,297.86,8571609,292.22,302.01,288.7701,02-26,1261.0,2020-02-26 00:00:00,fed’s vice chair warned disruption “could spill rest global economy” another rocky day market coronavirus spread,0.0
+TSLA,Tesla Inc,2019-02-27,314.74,11144100,301.78,316.295,300.55,02-27,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-02-28,319.88,9666224,318.92,320.0,310.81,02-28,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-03-01,294.79,22848750,306.94,307.13,291.9,03-01,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-03-02,294.79,22848750,306.94,307.13,291.9,03-02,1278.0,2020-03-02 00:00:00,new study examines youtube’s effort limit spread conspiracy theory site video claiming end time near questioning climate change youtube quiet conspiracy theorist,1.0
+TSLA,Tesla Inc,2019-03-03,294.79,22848750,306.94,307.13,291.9,03-03,1273.0,2020-03-03 00:00:00,super tuesday moderate coalescing around joe biden hope preventing bernie sander amassing insurmountable lead capitalist make case sander,1.0
+TSLA,Tesla Inc,2019-03-04,285.36,17068890,298.12,299.0,282.78,03-04,1270.0,2020-03-04 00:00:00,considered “supermini” europe peugeot beat seven finalist including tesla’s model porsche electric taycan auto show geneva car year must go,0.0
+TSLA,Tesla Inc,2019-03-04,285.36,17068890,298.12,299.0,282.78,03-04,1268.0,2020-03-04 00:00:00,general motor say aiming sell million electric car truck annually united state china gm lay ambition electricvehicle lineup rival tesla,1.0
+TSLA,Tesla Inc,2019-03-05,276.54,18729800,282.0,284.0,270.1,03-05,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-03-06,276.24,10319370,276.48,281.5058,274.39,03-06,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-03-07,276.59,9410697,278.84,284.7,274.25,03-07,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-03-08,284.14,8805772,276.91,285.59,275.89,03-08,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-03-09,284.14,8805772,276.91,285.59,275.89,03-09,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-03-10,284.14,8805772,276.91,285.59,275.89,03-10,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-03-11,290.92,7372298,283.52,291.28,280.5,03-11,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-03-12,283.36,7488037,286.49,288.07,281.06,03-12,1275.0,2020-03-12 00:00:00,business adjusting new reality everyday social interaction altered travel restricted general economic activity limited business world wake pandemic,1.0
+TSLA,Tesla Inc,2019-03-13,288.96,6817854,283.9,291.99,282.7,03-13,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-03-14,289.96,7048138,292.45,295.39,288.29,03-14,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-03-15,275.43,14757360,283.51,283.7244,274.4,03-15,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-03-16,275.43,14757360,283.51,283.7244,274.4,03-16,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-03-17,275.43,14757360,283.51,283.7244,274.4,03-17,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-03-18,269.49,10264960,276.0,278.05,267.3,03-18,1269.0,2020-03-18 00:00:00,gm ford motor fiat chrysler pressure autoworkers union shut plant response coronavirus outbreak automaker close factory north america,0.0
+TSLA,Tesla Inc,2019-03-19,267.47,11774330,267.5,273.3,263.46,03-19,1267.0,2020-03-19 00:00:00,tractortrailer fleet take time electrify startup established truck maker racing get model road big rig begin trade diesel electric motor,0.0
+TSLA,Tesla Inc,2019-03-19,267.47,11774330,267.5,273.3,263.46,03-19,1271.0,2020-03-19 00:00:00,stock remained volatile even government took step offset sharp decline gripping economy stock inch higher wall street’s turmoil continues,1.0
+TSLA,Tesla Inc,2019-03-19,267.47,11774330,267.5,273.3,263.46,03-19,1266.0,2020-03-19 00:00:00,electric carmaker continued making car recent day apparent defiance local county order limiting operation nonessential business mounting criticism tesla shut california factory,1.0
+TSLA,Tesla Inc,2019-03-20,273.6,6881976,269.69,274.97,266.3,03-20,1274.0,2020-03-20 00:00:00,little doubt severe economic downturn awaits bad get depends nature government response coronavirus bailouts begin take shape,-1.0
+TSLA,Tesla Inc,2019-03-21,274.02,5930925,272.6,276.45,268.45,03-21,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-03-22,264.53,8721950,272.58,272.8,264.0,03-22,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-03-23,264.53,8721950,272.58,272.8,264.0,03-23,1276.0,2020-03-23 00:00:00,echo partisan wrangling caused giant stimulus bill stumble even market plunged business buckled fill trillion hole economy,-1.0
+TSLA,Tesla Inc,2019-03-24,264.53,8721950,272.58,272.8,264.0,03-24,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-03-25,260.42,10205080,259.71,263.18,254.46,03-25,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-03-26,267.77,7341868,264.44,270.26,264.43,03-26,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-03-27,274.83,8752384,268.75,275.37,268.1838,03-27,1272.0,2020-03-27 00:00:00,we’re highlighting heartening thing caught attention world mobilizes coronavirus pandemic it’s bad here’s proof,-1.0
+TSLA,Tesla Inc,2019-03-28,278.62,6764921,277.16,280.33,275.1,03-28,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-03-29,279.86,5980355,278.7,280.16,274.5,03-29,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-03-30,279.86,5980355,278.7,280.16,274.5,03-30,1277.0,2020-03-30 00:00:00,live update stock market business news coronavirus outbreak ford join effort make ventilator,1.0
+TSLA,Tesla Inc,2019-03-31,279.86,5980355,278.7,280.16,274.5,03-31,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-01,289.18,8093134,282.62,289.2,281.281,04-01,1281.0,2020-04-01 00:00:00,strong first two month year sale tumbled march american stayed home auto sale plummet first quarter coronavirus keep buyer away,1.0
+TSLA,Tesla Inc,2019-04-02,285.88,5427184,288.3,289.44,283.88,04-02,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-03,291.81,7916650,287.32,296.17,287.17,04-03,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-04,267.78,23680170,261.89,271.2,260.59,04-04,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-05,274.96,13022740,269.86,276.1,266.11,04-05,1286.0,2020-04-05 00:00:00,pandemic prompted many field focus way address anticipate aftermath economist trying answer coronavirus question,1.0
+TSLA,Tesla Inc,2019-04-06,274.96,13022740,269.86,276.1,266.11,04-06,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-07,274.96,13022740,269.86,276.1,266.11,04-07,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-08,273.2,10364600,277.69,281.16,270.44,04-08,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-09,272.31,5893247,271.65,275.0,269.61,04-09,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-10,276.06,7045034,276.74,278.38,272.8925,04-10,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-11,268.42,9781294,268.3,270.5,265.6,04-11,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-12,267.7,6735386,270.22,271.95,266.83,04-12,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-13,267.7,6735386,270.22,271.95,266.83,04-13,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-14,267.7,6735386,270.22,271.95,266.83,04-14,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-15,266.38,10032490,268.63,268.88,258.63,04-15,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-16,273.36,7266504,265.75,275.0,264.72,04-16,1280.0,2020-04-16 00:00:00,city dweller would love ev biggest hurdle might keeping juiced without garage convenient charging station ‘charger desert’ big city keep electric car mainstream,1.0
+TSLA,Tesla Inc,2019-04-17,271.23,5118011,274.75,274.79,268.535,04-17,1285.0,2020-04-17 00:00:00,faced closing plunging sale american lose job entrepreneur becoming nimble ‘i didn’t want shut doors’ business find way survive,1.0
+TSLA,Tesla Inc,2019-04-18,273.26,5861478,271.23,274.84,269.75,04-18,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-19,273.26,5861478,271.23,274.84,269.75,04-19,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-20,273.26,5861478,271.23,274.84,269.75,04-20,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-21,273.26,5861478,271.23,274.84,269.75,04-21,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-22,262.75,12101690,269.0,269.68,262.48,04-22,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-23,263.9,10909350,260.15,265.6,255.75,04-23,1283.0,2020-04-23 00:00:00,growing array specialty shop turning classic silent brute tireburning torque vintage style trip garage electric switch,1.0
+TSLA,Tesla Inc,2019-04-24,258.66,9657061,263.85,265.32,258.0,04-24,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-25,247.63,21823380,255.0,259.0,246.07,04-25,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-26,235.14,22151160,246.5,246.68,231.13,04-26,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-27,235.14,22151160,246.5,246.68,231.13,04-27,1284.0,2020-04-27 00:00:00,tire maker’s ceo say company must ready end quarantine french union wary closing virus michelin moving quickly,1.0
+TSLA,Tesla Inc,2019-04-27,235.14,22151160,246.5,246.68,231.13,04-27,1287.0,2020-04-27 00:00:00,u government’s smallbusiness rescue fund reopens today outrage remains bigger company tapped first round loan loan fury,1.0
+TSLA,Tesla Inc,2019-04-28,235.14,22151160,246.5,246.68,231.13,04-28,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-04-29,241.47,16686620,235.86,243.98,232.17,04-29,1282.0,2020-04-29 00:00:00,latest stock market business news coronavirus outbreak wall street rally fed promise shore economy,1.0
+TSLA,Tesla Inc,2019-04-30,238.69,9446965,242.06,244.21,237.0,04-30,1279.0,2020-04-30 00:00:00,earnings call investor executive addressing effect pandemic radically different way elon musk mark zuckerberg aren’t page,0.0
+TSLA,Tesla Inc,2019-05-01,234.01,10704350,238.85,240.0,231.5,05-01,1314.0,2020-05-01 00:00:00,latest stock market business news coronavirus outbreak u stock end week lower tech earnings,1.0
+TSLA,Tesla Inc,2019-05-01,234.01,10704350,238.85,240.0,231.5,05-01,1292.0,2020-05-01 00:00:00,electric car company’s stock fell percent chief executive took twitter try talk recent surge elon musk say tesla share price high,1.0
+TSLA,Tesla Inc,2019-05-02,244.1,18159340,245.52,247.13,237.72,05-02,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-05-03,255.03,23706770,243.86,256.61,243.49,05-03,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-05-04,255.03,23706770,243.86,256.61,243.49,05-04,1310.0,2020-05-04 00:00:00,unlike spending spree financial crisis berkshire hathaway chief keeping wallet closed warren buffett isn’t buying anything,-1.0
+TSLA,Tesla Inc,2019-05-05,255.03,23706770,243.86,256.61,243.49,05-05,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-05-06,255.34,10833940,250.02,258.3499,248.5,05-06,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-05-07,247.06,10131410,256.8,257.21,245.1,05-07,1297.0,2020-05-07 00:00:00,electric hummer cybertrucks well next generation suv signal arrival ev era america start sell big number new breed pickup mix horsepower battery power,1.0
+TSLA,Tesla Inc,2019-05-08,244.84,6176440,246.94,250.599,244.2,05-08,1300.0,2020-05-08 00:00:00,latest stock market business news coronavirus outbreak u job report show clearest data yet economic toll,1.0
+TSLA,Tesla Inc,2019-05-08,244.84,6176440,246.94,250.599,244.2,05-08,1290.0,2020-05-08 00:00:00,electric car company told employee report work friday county official said tesla meet requirement resuming production tesla tell worker reopen california factory despite county order,0.0
+TSLA,Tesla Inc,2019-05-09,241.98,6711382,242.0,243.68,236.9434,05-09,1291.0,2020-05-09 00:00:00,say he’ll move headquarters electric car company california texas nevada elon musk lash official keeping tesla plant closed virus,-1.0
+TSLA,Tesla Inc,2019-05-10,239.52,7008336,239.75,241.99,236.02,05-10,1307.0,2020-05-10 00:00:00,front solo look like car hood grille headlight take peek behind however taper one wheel quite car quite motorcycle vehicle built one,-1.0
+TSLA,Tesla Inc,2019-05-11,239.52,7008336,239.75,241.99,236.02,05-11,1296.0,2020-05-11 00:00:00,tesla ceo’s dispute california foreshadows potential clash business state public health measure elon musk ‘not messing around’,0.0
+TSLA,Tesla Inc,2019-05-11,239.52,7008336,239.75,241.99,236.02,05-11,1298.0,2020-05-11 00:00:00,latest stock market business news coronavirus outbreak tesla restart bay area factory defiance local order,1.0
+TSLA,Tesla Inc,2019-05-12,239.52,7008336,239.75,241.99,236.02,05-12,1299.0,2020-05-12 00:00:00,latest stock market business news coronavirus outbreak stock fall amid concern recovery,1.0
+TSLA,Tesla Inc,2019-05-12,239.52,7008336,239.75,241.99,236.02,05-12,1295.0,2020-05-12 00:00:00,central bank buy corporate bond first time history part eagerly anticipated package pandemic rescue measure fed buying etf today,1.0
+TSLA,Tesla Inc,2019-05-13,227.01,10834800,232.01,232.47,224.5,05-13,1288.0,2020-05-13 00:00:00,mr musk opened california factory week defiance local order also criticized response pandemic “dumb” “fascist” coronavirus wrecked tesla’s momentum elon musk furious,-1.0
+TSLA,Tesla Inc,2019-05-13,227.01,10834800,232.01,232.47,224.5,05-13,1312.0,2020-05-13 00:00:00,plunging sale could force factory close lead takeover merger also bolster sale electric car pandemic permanently change auto industry,0.0
+TSLA,Tesla Inc,2019-05-14,232.31,7252412,229.3,234.5,228.0,05-14,1294.0,2020-05-14 00:00:00,microsoft chief say recovery like “dial” “switch” worry lost everybody work home satya nadella think,0.0
+TSLA,Tesla Inc,2019-05-15,231.95,7295976,229.32,232.44,225.25,05-15,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-05-16,228.33,7483273,229.49,231.0,226.5,05-16,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-05-17,211.03,17786670,221.96,222.24,208.92,05-17,1301.0,2020-05-17 00:00:00,idle nearly two month gm ford fiat chrysler restart assembly plant monday mask glove curtain autoworkers returning carmaker gradually crank factory,1.0
+TSLA,Tesla Inc,2019-05-17,211.03,17786670,221.96,222.24,208.92,05-17,1303.0,2020-05-17 00:00:00,business start coming back life lead resurgence virus case week business ready come reopening,1.0
+TSLA,Tesla Inc,2019-05-18,211.03,17786670,221.96,222.24,208.92,05-18,1313.0,2020-05-18 00:00:00,alibaba founder stepped softbank’s board day posted huge loss dragged oncevaunted technology investment fund jack quits softbank,1.0
+TSLA,Tesla Inc,2019-05-19,211.03,17786670,221.96,222.24,208.92,05-19,1309.0,2020-05-19 00:00:00,highminded talk among techie new favorite app inviteonly far social network mingling one another hot new thing clubby silicon valley app called clubhouse,1.0
+TSLA,Tesla Inc,2019-05-19,211.03,17786670,221.96,222.24,208.92,05-19,1289.0,2020-05-19 00:00:00,liberal status symbol founder moving right tesla owner try make sense elon musk’s ‘red pill’ moment,1.0
+TSLA,Tesla Inc,2019-05-20,205.36,20526200,202.8,206.0,195.25,05-20,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-05-21,205.08,18003900,197.76,207.4,196.04,05-21,1304.0,2020-05-21 00:00:00,computer scientist argues quest fully automated robot misguided perhaps even dangerous decade warning gaining attention case cooperation machine human,-1.0
+TSLA,Tesla Inc,2019-05-22,192.73,18685190,199.1,203.94,191.78,05-22,1306.0,2020-05-22 00:00:00,here’s one question matter google rig system squash rival hurt u shouting google,0.0
+TSLA,Tesla Inc,2019-05-23,195.49,26547140,194.34,199.465,186.22,05-23,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-05-24,190.63,14136570,199.83,199.98,188.7505,05-24,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-05-25,190.63,14136570,199.83,199.98,188.7505,05-25,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-05-26,190.63,14136570,199.83,199.98,188.7505,05-26,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-05-27,190.63,14136570,199.83,199.98,188.7505,05-27,1305.0,2020-05-27 00:00:00,latest stock market business news coronavirus outbreak reopening optimism help wall street,1.0
+TSLA,Tesla Inc,2019-05-27,190.63,14136570,199.83,199.98,188.7505,05-27,1302.0,2020-05-27 00:00:00,elon musk’s spacecraft company scheduled send two astronaut orbit today major milestone commercial space business one giant leap spacex,1.0
+TSLA,Tesla Inc,2019-05-28,188.7,10312900,191.2,195.0,187.85,05-28,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-05-29,189.86,11968640,187.1,192.39,185.0401,05-29,1308.0,2020-05-29 00:00:00,fleet vehicle roaming street waiting hailed efficient coronavirus made people think twice future car ownership even autonomous tech arrives car drive,1.0
+TSLA,Tesla Inc,2019-05-29,189.86,11968640,187.1,192.39,185.0401,05-29,1311.0,2020-05-29 00:00:00,president trump taking aim social network treatment tweet twitter responded putting warning another post it’s trump v twitter,1.0
+TSLA,Tesla Inc,2019-05-29,189.86,11968640,187.1,192.39,185.0401,05-29,1293.0,2020-05-29 00:00:00,dealership long resisted ecommerce many showroom closed dynamic changing pandemic force car dealer unthinkable sell online,1.0
+TSLA,Tesla Inc,2019-05-30,188.22,7926475,188.75,192.255,187.02,05-30,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-05-31,185.16,10406730,185.1,189.9204,184.1,05-31,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-06-01,185.16,10406730,185.1,189.9204,184.1,06-01,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-06-02,185.16,10406730,185.1,189.9204,184.1,06-02,1316.0,2020-06-02 00:00:00,facebook founder dealing employee revolt company’s position allow inflammatory post president trump platform mark zuckerberg’s biggest challenge yet,0.0
+TSLA,Tesla Inc,2019-06-03,178.97,13064410,185.51,186.68,176.9919,06-03,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-06-04,193.6,13807520,181.1,193.98,179.61,06-04,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-06-05,196.59,13510760,198.68,201.2782,191.8486,06-05,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-06-06,205.95,20242150,204.44,211.0,201.8,06-06,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-06-07,204.5,16003530,205.0,210.8438,203.499,06-07,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-06-08,204.5,16003530,205.0,210.8438,203.499,06-08,1321.0,2020-06-08 00:00:00,swarm account amplifying beijing’s brash new messaging country try shape global narrative coronavirus much else behind china’s twitter campaign murky supporting chorus,-1.0
+TSLA,Tesla Inc,2019-06-09,204.5,16003530,205.0,210.8438,203.499,06-09,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-06-10,212.88,10585040,210.25,216.94,209.01,06-10,1317.0,2020-06-10 00:00:00,latest stock market business news coronavirus outbreak fed expects unemployment rate stay high,1.0
+TSLA,Tesla Inc,2019-06-11,217.1,11653540,219.144,220.9,213.5,06-11,1318.0,2020-06-11 00:00:00,facing tepid sale criticism environmental group swiss food giant looking exit brand like poland spring deer park nestlé weighs sale water unit push toward sustainability,0.0
+TSLA,Tesla Inc,2019-06-12,209.26,15197540,222.95,223.38,209.0,06-12,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-06-13,213.91,8168260,210.38,214.9,207.5103,06-13,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-06-14,214.92,7433402,211.25,216.65,210.4,06-14,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-06-15,214.92,7433402,211.25,216.65,210.4,06-15,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-06-16,214.92,7433402,211.25,216.65,210.4,06-16,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-06-17,225.03,12316800,215.48,227.0,214.27,06-17,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-06-18,224.74,12715790,228.72,234.74,222.56,06-18,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-06-19,226.43,6575135,225.11,227.77,221.06,06-19,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-06-20,219.62,11863460,223.0,226.9,216.35,06-20,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-06-21,221.86,8202078,216.22,222.18,215.5,06-21,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-06-22,221.86,8202078,216.22,222.18,215.5,06-22,1322.0,2020-06-22 00:00:00,jay clayton nation’s top security regulator thrust political firestorm leave sec risk ‘overnight ruin’,1.0
+TSLA,Tesla Inc,2019-06-23,221.86,8202078,216.22,222.18,215.5,06-23,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-06-24,223.64,5750771,223.24,225.86,221.02,06-24,1320.0,2020-06-24 00:00:00,jeff ubben leaving hedge fund founded new venture focused “inclusive capitalism” think traditional finance played activist investor done finance,1.0
+TSLA,Tesla Inc,2019-06-25,219.76,6182071,224.39,225.34,219.49,06-25,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-06-26,219.27,8507208,220.31,227.23,218.1,06-26,1319.0,2020-06-26 00:00:00,online retailer taking step move people well package amazon buy zoox move toward selfdriving car,0.0
+TSLA,Tesla Inc,2019-06-27,222.84,6339710,219.45,222.9,217.35,06-27,1315.0,2020-06-27 00:00:00,six former employee recently named federal charge indication length company go hit back detractor ebay’s critic faced extreme case old silicon valley habit,-1.0
+TSLA,Tesla Inc,2019-06-28,223.46,6851384,220.99,225.17,220.8,06-28,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-06-29,223.46,6851384,220.99,225.17,220.8,06-29,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-06-30,223.46,6851384,220.99,225.17,220.8,06-30,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-07-01,227.17,8237964,230.21,233.0995,226.28,07-01,1343.0,2020-07-01 00:00:00,latest stock market business news coronavirus outbreak stock market edge higher,1.0
+TSLA,Tesla Inc,2019-07-02,224.55,9259027,228.89,229.15,222.22,07-02,1344.0,2020-07-02 00:00:00,latest stock market business news coronavirus outbreak u added nearly million job june,1.0
+TSLA,Tesla Inc,2019-07-02,224.55,9259027,228.89,229.15,222.22,07-02,1333.0,2020-07-02 00:00:00,swell coronavirus case forcing u city state company change course threatening appeared fragile economic comeback big uturn,1.0
+TSLA,Tesla Inc,2019-07-02,224.55,9259027,228.89,229.15,222.22,07-02,1326.0,2020-07-02 00:00:00,electric carmaker’s delivery fell modestly sale china overseas market nearly made lost sale united state tesla shine pandemic automaker struggle,1.0
+TSLA,Tesla Inc,2019-07-03,234.9,14201150,239.39,241.57,234.51,07-03,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-07-04,234.9,14201150,239.39,241.57,234.51,07-04,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-07-05,233.1,7065738,234.57,235.45,230.8,07-05,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-07-06,233.1,7065738,234.57,235.45,230.8,07-06,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-07-07,233.1,7065738,234.57,235.45,230.8,07-07,1329.0,2020-07-07 00:00:00,sunrun acquiring vivint allstock deal valued billion leaving tesla behind provider residential solar panel battery solar deal would create new industry giant,-1.0
+TSLA,Tesla Inc,2019-07-07,233.1,7065738,234.57,235.45,230.8,07-07,1339.0,2020-07-07 00:00:00,know name many business received billion smallbusiness rescue loan recipient raise eyebrow follow money,1.0
+TSLA,Tesla Inc,2019-07-08,230.34,5880542,231.24,232.25,228.66,07-08,1335.0,2020-07-08 00:00:00,civil right group criticized company’s top executive mark zuckerberg sheryl sandberg meeting policy hate speech facebook’s big meeting didn’t go well,-1.0
+TSLA,Tesla Inc,2019-07-09,230.06,6190835,228.97,231.0,227.28,07-09,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-07-10,238.92,9145736,234.15,238.94,233.14,07-10,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-07-11,238.6,7514430,238.14,241.5,235.8,07-11,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-07-12,245.08,9200521,239.75,245.38,239.71,07-12,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-07-13,245.08,9200521,239.75,245.38,239.71,07-13,1334.0,2020-07-13 00:00:00,daily virus case setting record fear rising economic recovery fizzling investor seem unfazed infection rise earnings fall stock go,1.0
+TSLA,Tesla Inc,2019-07-14,245.08,9200521,239.75,245.38,239.71,07-14,1337.0,2020-07-14 00:00:00,worker calling industry shut plant state virus case increased sharply recent week automaker making car virus surge put risk,0.0
+TSLA,Tesla Inc,2019-07-14,245.08,9200521,239.75,245.38,239.71,07-14,1325.0,2020-07-14 00:00:00,ruling state court contradicts elon musk’s bullish view autonomous driving technology german court say tesla selfdriving claim misleading,1.0
+TSLA,Tesla Inc,2019-07-14,245.08,9200521,239.75,245.38,239.71,07-14,1340.0,2020-07-14 00:00:00,specialized deal structure known spacs moment striking big takeover raising huge new fund big blank check,1.0
+TSLA,Tesla Inc,2019-07-15,253.5,11000090,248.0,254.42,244.86,07-15,1338.0,2020-07-15 00:00:00,big bank say could get worse get better ‘moment truth’,1.0
+TSLA,Tesla Inc,2019-07-16,252.38,8148989,249.3,253.53,247.9325,07-16,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-07-17,254.86,9764727,255.67,258.31,253.35,07-17,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-07-18,253.54,4764483,255.05,255.75,251.885,07-18,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-07-19,258.18,7048410,255.69,259.96,254.62,07-19,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-07-20,258.18,7048410,255.69,259.96,254.62,07-20,1332.0,2020-07-20 00:00:00,company listed sp report latest earnings week far percent bluechip company released secondquarter result beat analyst expectation according factset keep here’s business news watch week,1.0
+TSLA,Tesla Inc,2019-07-20,258.18,7048410,255.69,259.96,254.62,07-20,1345.0,2020-07-20 00:00:00,anger lockdown mask mandate provides fertile ground argument best way fight virus extimes reporter ohio wedding provider covid contrarian go viral,1.0
+TSLA,Tesla Inc,2019-07-20,258.18,7048410,255.69,259.96,254.62,07-20,1341.0,2020-07-20 00:00:00,corporate leader increasingly gloomy economic recovery citing fight mask prospect renewed lockdown ceo say ‘it’s grind’,1.0
+TSLA,Tesla Inc,2019-07-21,258.18,7048410,255.69,259.96,254.62,07-21,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-07-22,255.68,6846273,258.75,262.155,254.1911,07-22,1324.0,2020-07-22 00:00:00,traditional carmaker struggling produce market electric vehicle even tesla sell hundred thousand luxury model electric car market it’s tesla jumbled field alsorans,0.0
+TSLA,Tesla Inc,2019-07-22,255.68,6846273,258.75,262.155,254.1911,07-22,1336.0,2020-07-22 00:00:00,congress scrambling approve next round coronavirus aid — serious disagreement remain racing toward cliff,-1.0
+TSLA,Tesla Inc,2019-07-23,260.17,5023121,256.71,260.48,254.5,07-23,1330.0,2020-07-23 00:00:00,result achieved “despite tremendous difficulties” said chief executive elon musk including plant shutdown lower sale tesla turned surprise profit despite plant shutdown lower sale,1.0
+TSLA,Tesla Inc,2019-07-23,260.17,5023121,256.71,260.48,254.5,07-23,1328.0,2020-07-23 00:00:00,unexpected profit pushed tesla’s turbocharged share even higher electriccar maker join sp soon elon musk delivers big surprise,1.0
+TSLA,Tesla Inc,2019-07-23,260.17,5023121,256.71,260.48,254.5,07-23,1323.0,2020-07-23 00:00:00,result achieved “despite tremendous difficulties” said chief executive elon musk including plant shutdown lower sale tesla turn profit pandemicsqueezed quarter,1.0
+TSLA,Tesla Inc,2019-07-24,264.88,11072840,259.17,266.07,258.1601,07-24,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-07-25,228.82,22418250,233.5,234.5,225.5501,07-25,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-07-26,228.04,10027700,226.92,230.26,222.25,07-26,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-07-27,228.04,10027700,226.92,230.26,222.25,07-27,1331.0,2020-07-27 00:00:00,tesla riding high lately billionaire chief executive elon musk recent day note today’s dealbook newsletter mr musk gotten public scrape including briefly partner musician grime elon musk court controversy,-1.0
+TSLA,Tesla Inc,2019-07-27,228.04,10027700,226.92,230.26,222.25,07-27,1327.0,2020-07-27 00:00:00,profound change may result remote working becomes widespread longterm creating winner loser new world work,1.0
+TSLA,Tesla Inc,2019-07-28,228.04,10027700,226.92,230.26,222.25,07-28,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-07-29,235.77,9273331,227.09,235.94,226.0325,07-29,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-07-30,242.26,8109014,232.9,243.36,232.18,07-30,1342.0,2020-07-30 00:00:00,moment stood congressional hearing big tech’s market power congress versus ‘emperors’,0.0
+TSLA,Tesla Inc,2019-07-31,241.61,9178208,243.0,246.68,236.6501,07-31,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-08-01,233.85,8259516,242.65,244.51,231.77,08-01,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-08-02,234.34,6136481,231.35,236.27,229.23,08-02,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-08-03,234.34,6136481,231.35,236.27,229.23,08-03,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-08-04,234.34,6136481,231.35,236.27,229.23,08-04,1347.0,2020-08-04 00:00:00,jim hackett failed impress wall street replaced james farley auto industry veteran started career toyota ford struggling changing industry replaces ceo,-1.0
+TSLA,Tesla Inc,2019-08-04,234.34,6136481,231.35,236.27,229.23,08-04,1348.0,2020-08-04 00:00:00,ford motor said chief executive jim hackett retire oct ending threeyear run automaker worked mixed result streamline operation focus business electric car truck sportutility vehicle ford’s chief jim hackett retire company try regain momentum,0.0
+TSLA,Tesla Inc,2019-08-05,228.32,7028279,229.6,231.3673,225.775,08-05,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-08-06,230.75,5564200,231.88,232.5,225.75,08-06,1349.0,2020-08-06 00:00:00,pineapple “leather” flax seed instead plastic tarform based brooklyn aim set standard retrofuturistic cafe racer ‘motorcycle tomorrow’ heavy flair light environment,1.0
+TSLA,Tesla Inc,2019-08-07,233.42,4776500,226.5,233.5688,225.8,08-07,1357.0,2020-08-07 00:00:00,allpurpose app administration restricting along tiktok many chinese living abroad stay touch one another people back home targeting wechat trump take aim china’s bridge world,1.0
+TSLA,Tesla Inc,2019-08-07,233.42,4776500,226.5,233.5688,225.8,08-07,1354.0,2020-08-07 00:00:00,restriction two chineseowned apps followed familiar model policy announcement china trump administration trump’s order wechat tiktok uncertain may point,1.0
+TSLA,Tesla Inc,2019-08-08,238.3,5274349,234.45,239.8,232.65,08-08,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-08-09,235.01,3898244,236.054,238.96,233.81,08-09,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-08-10,235.01,3898244,236.054,238.96,233.81,08-10,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-08-11,235.01,3898244,236.054,238.96,233.81,08-11,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-08-12,229.01,4663937,232.99,235.77,228.75,08-12,1356.0,2020-08-12 00:00:00,joe biden’s selection relatively moderate vicepresidential running mate seems well received among executive class kamala harris mean wall street silicon valley,-1.0
+TSLA,Tesla Inc,2019-08-13,235.0,4868998,228.81,236.0,227.55,08-13,1351.0,2020-08-13 00:00:00,quick spin market check chart,1.0
+TSLA,Tesla Inc,2019-08-14,219.62,9562591,231.21,231.5,216.69,08-14,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-08-15,215.64,8231952,220.86,221.56,211.55,08-15,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-08-16,219.94,5207376,216.66,222.24,216.02,08-16,1358.0,2020-08-16 00:00:00,million child flocked online gaming site roblox since march that’s helping game developer young make lot money tween pandemic gaming site,-1.0
+TSLA,Tesla Inc,2019-08-17,219.94,5207376,216.66,222.24,216.02,08-17,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-08-18,219.94,5207376,216.66,222.24,216.02,08-18,1350.0,2020-08-18 00:00:00,new suitor emerges tiktok white house imposes restriction huawei net effect move could fracturing web tiktok huawei ‘splinternet’,1.0
+TSLA,Tesla Inc,2019-08-19,226.83,5311748,224.21,227.83,221.7,08-19,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-08-20,225.86,4170527,227.62,229.09,224.54,08-20,1353.0,2020-08-20 00:00:00,today they’re wired heated laden control soon could reserved classic car steering wheels’ past present autonomous future,1.0
+TSLA,Tesla Inc,2019-08-21,220.83,7799744,222.01,223.22,217.6,08-21,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-08-22,222.15,6564964,222.8,225.4,218.22,08-22,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-08-23,211.4,8559704,219.97,221.17,211.0,08-23,1346.0,2020-08-23 00:00:00,special purpose acquisition company spacs helping fledgling company raise money gain coveted stock listing electric vehicle maker find back door wall street,1.0
+TSLA,Tesla Inc,2019-08-24,211.4,8559704,219.97,221.17,211.0,08-24,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-08-25,211.4,8559704,219.97,221.17,211.0,08-25,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-08-26,215.0,5054414,213.6,215.02,211.54,08-26,1355.0,2020-08-26 00:00:00,tech startup named object “the lord rings” become major government contractor easy understand what’s palantir tech industry’s next big ipo,1.0
+TSLA,Tesla Inc,2019-08-27,214.08,5420727,215.74,218.8,212.03,08-27,1352.0,2020-08-27 00:00:00,delivery surging pandemic carrier like ups fedex company like amazon renewing push toward electric vehicle soon kitty litter come electric truck,0.0
+TSLA,Tesla Inc,2019-08-28,215.59,3238625,213.69,217.25,212.31,08-28,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-08-29,221.71,5183104,219.0,223.4,218.0,08-29,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-08-30,225.61,9327775,229.15,232.44,224.213,08-30,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-08-31,225.61,9327775,229.15,232.44,224.213,08-31,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-09-01,225.61,9327775,229.15,232.44,224.213,09-01,1366.0,2020-09-01 00:00:00,app latest front intensifying tech cold war u china collateral damage company around world tit tat tiktok,-1.0
+TSLA,Tesla Inc,2019-09-02,225.61,9327775,229.15,232.44,224.213,09-02,1369.0,2020-09-02 00:00:00,republican democrat agree u economy could use stimulus can’t agree economy need help,0.0
+TSLA,Tesla Inc,2019-09-02,225.61,9327775,229.15,232.44,224.213,09-02,1361.0,2020-09-02 00:00:00,defying pandemic german carmaker began producing new sclass one biggest moneymaker catch tesla need car right mercedes think,1.0
+TSLA,Tesla Inc,2019-09-03,225.01,5360546,224.08,228.95,223.16,09-03,1378.0,2020-09-03 00:00:00,auto worth less competed year circuslike race called hour lemon electric vehicle invited limit spending endurance racing car belong demolition derby,1.0
+TSLA,Tesla Inc,2019-09-04,220.68,5768696,226.89,228.46,219.205,09-04,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-09-05,229.58,7403322,222.5,229.8,220.85,09-05,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-09-06,227.45,4189372,227.2,229.64,225.17,09-06,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-09-07,227.45,4189372,227.2,229.64,225.17,09-07,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-09-08,227.45,4189372,227.2,229.64,225.17,09-08,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-09-09,231.79,4802669,230.0,233.76,229.23,09-09,1362.0,2020-09-09 00:00:00,pause astrazeneca’s trial safety concern raise issue life without covid vaccine look like isn’t vaccine year,0.0
+TSLA,Tesla Inc,2019-09-10,235.54,4883714,230.8,235.54,228.94,09-10,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-09-11,247.1,10042780,237.38,248.1741,236.0,09-11,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-09-12,245.87,8581210,247.7,253.5,244.4,09-12,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-09-13,245.2,5313145,246.96,248.45,244.865,09-13,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-09-14,245.2,5313145,246.96,248.45,244.865,09-14,1375.0,2020-09-14 00:00:00,courtappointed monitor said final report carmaker become ethical following devastating emission cheating scandal ‘continued vigilance’ needed volkswagen kept promise reform u overseer say,-1.0
+TSLA,Tesla Inc,2019-09-15,245.2,5313145,246.96,248.45,244.865,09-15,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-09-16,242.81,4728096,246.0,247.43,241.17,09-16,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-09-17,244.79,3946909,242.47,245.6,240.37,09-17,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-09-18,243.49,4228103,245.0,248.1685,242.37,09-18,1374.0,2020-09-18 00:00:00,said administration’s policy driving away technology talent could longterm damage industry computing pioneer endorse biden citing trump immigration crackdown,0.0
+TSLA,Tesla Inc,2019-09-19,246.6,4883135,246.0,247.94,244.84,09-19,1370.0,2020-09-19 00:00:00,beijing issued rule could allow halt export import investment business accused endangering national security trump’s tiktok ban china ready blacklist foreign company,1.0
+TSLA,Tesla Inc,2019-09-20,240.62,6506264,246.49,246.946,238.16,09-20,1360.0,2020-09-20 00:00:00,battery price dropping faster expected analyst moving projection electric vehicle won’t need government incentive cheaper gasoline model age electric car dawning ahead schedule,-1.0
+TSLA,Tesla Inc,2019-09-21,240.62,6506264,246.49,246.946,238.16,09-21,1364.0,2020-09-21 00:00:00,trevor milton founder executive chairman nikola resigned investment fund accused making false assertion company’s technology head nikola gm electric truck partner quits amid fraud claim,-1.0
+TSLA,Tesla Inc,2019-09-21,240.62,6506264,246.49,246.946,238.16,09-21,1371.0,2020-09-21 00:00:00,leading candidate fill seat supreme court likely rule favor conservative cause could affect corporate america ginsburg’s successor could remake business,0.0
+TSLA,Tesla Inc,2019-09-21,240.62,6506264,246.49,246.946,238.16,09-21,1377.0,2020-09-21 00:00:00,bp european company invest billion renewable energy exxon chevron committed fossil fuel betting moonshots u european oil giant go different way climate change,0.0
+TSLA,Tesla Inc,2019-09-22,240.62,6506264,246.49,246.946,238.16,09-22,1379.0,2020-09-22 00:00:00,involves tiktok deal deal,0.0
+TSLA,Tesla Inc,2019-09-23,241.23,4391630,240.0,245.1794,239.22,09-23,1359.0,2020-09-23 00:00:00,tesla said working advance would lower cost battery increase capacity store energy elon musk promise make tesla year,0.0
+TSLA,Tesla Inc,2019-09-23,241.23,4391630,240.0,245.1794,239.22,09-23,1373.0,2020-09-23 00:00:00,tencent one china’s powerful tech company coming administration’s sight trump’s next chinese target,1.0
+TSLA,Tesla Inc,2019-09-24,223.21,12941110,241.52,241.99,222.61,09-24,1368.0,2020-09-24 00:00:00,square plan put million program bolster black community joining like netflix others another big investment racial justice,-1.0
+TSLA,Tesla Inc,2019-09-25,228.7,9444286,224.56,228.98,218.36,09-25,1363.0,2020-09-25 00:00:00,editor reporter dealbook newsletter listen many corporate conference call sift lot company report otherwise digest important business news quote caught attention week heard earnings call week,1.0
+TSLA,Tesla Inc,2019-09-25,228.7,9444286,224.56,228.98,218.36,09-25,1372.0,2020-09-25 00:00:00,worker return workplace inevitably test positive there’s debate notified there’s covid office know,1.0
+TSLA,Tesla Inc,2019-09-26,242.56,12078790,230.66,243.31,227.4,09-26,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-09-27,242.13,11123180,242.2,248.71,238.73,09-27,1367.0,2020-09-27 00:00:00,rising jobless claim signal stalling economic recovery — long fall ahead week business recovery hit wall,1.0
+TSLA,Tesla Inc,2019-09-28,242.13,11123180,242.2,248.71,238.73,09-28,1376.0,2020-09-28 00:00:00,big crowd place like beijing auto show sign good news china need less affluent spend growth engine return full speed china’s economy come roaring back led wealthy consumer,1.0
+TSLA,Tesla Inc,2019-09-28,242.13,11123180,242.2,248.71,238.73,09-28,1365.0,2020-09-28 00:00:00,major investigation president trump’s finance show business reported huge loss may part plan much trump win losing,1.0
+TSLA,Tesla Inc,2019-09-29,242.13,11123180,242.2,248.71,238.73,09-29,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-09-30,240.87,5946161,243.0,243.98,236.1111,09-30,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-01,244.69,6196290,241.5,245.95,239.13,10-01,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-02,243.13,6256548,243.29,244.65,239.43,10-02,1380.0,2020-10-02 00:00:00,tesla reported record delivery third quarter growing interest electric vehicle car boosted sale across industry led tesla auto industry rebound car sale surge,0.0
+TSLA,Tesla Inc,2019-10-03,233.03,15137760,231.86,234.48,224.28,10-03,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-04,231.43,8021180,231.61,234.78,228.07,10-04,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-05,231.43,8021180,231.61,234.78,228.07,10-05,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-06,231.43,8021180,231.61,234.78,228.07,10-06,1384.0,2020-10-06 00:00:00,spurred brexit london backing company build satellite haul orbit britain getting ready space race,1.0
+TSLA,Tesla Inc,2019-10-07,237.72,8086957,229.8,238.56,228.55,10-07,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-08,240.05,8702338,235.87,243.94,234.5,10-08,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-09,244.53,6935033,241.32,247.295,240.65,10-09,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-10,244.74,6313417,245.28,249.28,241.58,10-10,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-11,247.89,8488159,247.15,251.08,246.81,10-11,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-12,247.89,8488159,247.15,251.08,246.81,10-12,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-13,247.89,8488159,247.15,251.08,246.81,10-13,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-14,256.96,10226860,247.9,258.55,247.13,10-14,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-15,257.89,6479456,257.7,260.0,254.12,10-15,1381.0,2020-10-15 00:00:00,tesla model porsche taycan give environmentally conscious speedsters outlet desire green electric car hit mph,-1.0
+TSLA,Tesla Inc,2019-10-16,259.75,6704303,257.39,262.1,256.92,10-16,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-17,261.97,4779043,262.5,264.78,260.17,10-17,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-18,256.95,5753666,260.7,262.8,255.1,10-18,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-19,256.95,5753666,260.7,262.8,255.1,10-19,1385.0,2020-10-19 00:00:00,help hurt economy running number biden’s tax policy,0.0
+TSLA,Tesla Inc,2019-10-20,256.95,5753666,260.7,262.8,255.1,10-20,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-21,253.5,5108101,258.33,259.5,250.18,10-21,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-22,255.58,4625095,254.32,258.33,250.85,10-22,1382.0,2020-10-22 00:00:00,polestar inherits classic scandinavian design element volvo lineage aim little free spirited electric car swedish root rebellious streak,1.0
+TSLA,Tesla Inc,2019-10-22,255.58,4625095,254.32,258.33,250.85,10-22,1387.0,2020-10-22 00:00:00,startup’s demise may bad investor seems quibi’s quick end,-1.0
+TSLA,Tesla Inc,2019-10-23,254.68,11216180,254.5,256.14,251.35,10-23,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-24,299.68,29819230,298.37,304.93,289.2,10-24,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-25,328.13,30006090,297.72,330.0,296.11,10-25,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-26,328.13,30006090,297.72,330.0,296.11,10-26,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-27,328.13,30006090,297.72,330.0,296.11,10-27,1386.0,2020-10-27 00:00:00,chinese fintech firm set break ipo record mighty ant,1.0
+TSLA,Tesla Inc,2019-10-28,327.71,18870290,327.54,340.84,322.6,10-28,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-29,316.22,12684270,319.99,324.3,314.75,10-29,1383.0,2020-10-29 00:00:00,muscle car fought decade brawniest electric car pushing envelope past even horsepower one car horsepower churchill down,-1.0
+TSLA,Tesla Inc,2019-10-30,315.01,9641810,313.0,318.79,309.97,10-30,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-10-31,314.92,5066956,313.1,319.0,313.0,10-31,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-11-01,313.31,6383929,316.32,316.48,309.8,11-01,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-11-02,313.31,6383929,316.32,316.48,309.8,11-02,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-11-03,313.31,6383929,316.32,316.48,309.8,11-03,1394.0,2020-11-03 00:00:00,government hope turn hainan island financial shopping destination matching former british colony won’t easy china envisions new hong kong firmly control,1.0
+TSLA,Tesla Inc,2019-11-04,317.47,8787040,314.8,321.94,309.26,11-04,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-11-05,317.22,6943417,319.62,323.51,316.118,11-05,1396.0,2020-11-05 00:00:00,scandal led billion trust fund state put cleaner vehicle road lot money gone diesel vehicle vw’s diesel settlement changing fleet school seaport,0.0
+TSLA,Tesla Inc,2019-11-06,326.58,7940932,318.0,326.72,314.5,11-06,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-11-07,335.54,14467350,329.14,341.5,328.02,11-07,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-11-08,337.14,6074221,334.5,337.46,332.5,11-08,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-11-09,337.14,6074221,334.5,337.46,332.5,11-09,1393.0,2020-11-09 00:00:00,two employee virgin hyperloop traveled small system company built near la vega first manned test step forward promise ultrafast ‘hyperloops’,1.0
+TSLA,Tesla Inc,2019-11-10,337.14,6074221,334.5,337.46,332.5,11-10,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-11-11,345.09,9993689,343.95,349.19,342.0,11-11,1392.0,2020-11-11 00:00:00,fuel could play important role fighting climate change slow gain traction high cost california trying jumpstart hydrogen economy,1.0
+TSLA,Tesla Inc,2019-11-12,349.93,7359383,346.9,350.37,344.04,11-12,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-11-13,346.11,8467863,355.0,356.33,345.18,11-13,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-11-14,349.35,6471703,346.11,353.84,342.91,11-14,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-11-15,352.17,4812563,350.64,352.8,348.36,11-15,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-11-16,352.17,4812563,350.64,352.8,348.36,11-16,1398.0,2020-11-16 00:00:00,jay clayton led security regulator since leave end year trump’s sec chairman stepping,-1.0
+TSLA,Tesla Inc,2019-11-17,352.17,4812563,350.64,352.8,348.36,11-17,1388.0,2020-11-17 00:00:00,tesla join sp next month earning mark corporate maturity may add remarkable rise stock price tesla joining sp could investor scrambling buy share,1.0
+TSLA,Tesla Inc,2019-11-17,352.17,4812563,350.64,352.8,348.36,11-17,1391.0,2020-11-17 00:00:00,question dr anthony fauci masa son senator elizabeth warren here’s lineup day dealbook online summit,0.0
+TSLA,Tesla Inc,2019-11-18,349.99,4408505,352.917,353.15,346.1,11-18,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-11-19,359.52,7736078,351.75,359.99,347.8,11-19,1389.0,2020-11-19 00:00:00,general motor say increase investment model offering next five year “to expedite transition evs” gm accelerates ambition electric vehicle,1.0
+TSLA,Tesla Inc,2019-11-20,352.22,6733965,360.0,361.2,349.57,11-20,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-11-21,354.83,6110013,354.51,360.84,354.0039,11-21,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-11-22,333.04,16870640,340.16,341.0,330.0,11-22,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-11-23,333.04,16870640,340.16,341.0,330.0,11-23,1395.0,2020-11-23 00:00:00,intel nvidia chip power supercomputing center track people place government suppresses minority raising question tech industry’s responsibility china’s surveillance state suck data u tech key sorting,-1.0
+TSLA,Tesla Inc,2019-11-24,333.04,16870640,340.16,341.0,330.0,11-24,1397.0,2020-11-24 00:00:00,former fed chief poised return government treasury secretary big challenge ahead janet yellen’s next mission tough,-1.0
+TSLA,Tesla Inc,2019-11-25,336.34,12345770,344.32,344.57,334.46,11-25,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-11-26,328.92,7956239,335.27,335.5,327.1,11-26,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-11-27,331.29,5563459,331.12,333.93,328.57,11-27,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-11-28,331.29,5563459,331.12,333.93,328.57,11-28,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-11-29,329.94,2465629,331.11,331.26,327.5,11-29,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-11-30,329.94,2465629,331.11,331.26,327.5,11-30,1390.0,2020-11-30 00:00:00,new agreement supplying hydrogen fuel cell technology general motor narrower partnership outlined september gm scale back alliance electric truck startup nikola,1.0
+TSLA,Tesla Inc,2019-11-30,329.94,2465629,331.11,331.26,327.5,11-30,1399.0,2020-11-30 00:00:00,salesforce’s approach slack sign thing come company bet big working home,0.0
+TSLA,Tesla Inc,2019-12-01,329.94,2465629,331.11,331.26,327.5,12-01,1413.0,2020-12-01 00:00:00,ask sec approve new rule requiring diverse corporate director nasdaq push diversity boardroom,1.0
+TSLA,Tesla Inc,2019-12-02,334.87,6081986,329.4,336.3827,328.687,12-02,1409.0,2020-12-02 00:00:00,presidentelect’s economic team say it’s worker biden spin ‘america first’,1.0
+TSLA,Tesla Inc,2019-12-03,336.2,6613476,332.62,337.91,332.186,12-03,1408.0,2020-12-03 00:00:00,aston martin bentley latest press sport utility market land rover made name still riding high suvification everything come classic british marque,1.0
+TSLA,Tesla Inc,2019-12-04,333.03,5536255,337.75,337.86,332.85,12-04,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-12-05,330.37,3736976,332.83,334.4227,327.25,12-05,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-12-06,335.89,7618937,335.0,338.86,334.77,12-06,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-12-07,335.89,7618937,335.0,338.86,334.77,12-07,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-12-08,335.89,7618937,335.0,338.86,334.77,12-08,1406.0,2020-12-08 00:00:00,mr musk said tuesday moved near new factory tesla building outside austin elon musk say moved texas california,1.0
+TSLA,Tesla Inc,2019-12-09,339.53,9040217,336.59,344.45,335.08,12-09,1411.0,2020-12-09 00:00:00,panel expert debate postcovid policy focus priority postpandemic world,0.0
+TSLA,Tesla Inc,2019-12-10,348.84,8839951,339.96,350.73,339.31,12-10,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-12-11,352.7,6919162,351.8765,357.1899,351.09,12-11,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-12-12,359.68,7776211,354.92,362.74,353.23,12-12,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-12-13,358.39,6574281,361.05,365.21,354.64,12-13,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-12-14,358.39,6574281,361.05,365.21,354.64,12-14,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-12-15,358.39,6574281,361.05,365.21,354.64,12-15,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-12-16,381.5,18220940,362.55,383.61,362.5,12-16,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-12-17,378.99,8503775,378.99,385.5,375.9,12-17,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-12-18,393.15,14136390,380.63,395.22,380.58,12-18,1402.0,2020-12-18 00:00:00,electriccar maker biggest addition history benchmark index settle swing tesla profitable last bull way sp,0.0
+TSLA,Tesla Inc,2019-12-19,404.04,18120310,397.32,406.85,396.5,12-19,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-12-20,405.59,14785210,410.29,413.0,400.185,12-20,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-12-21,405.59,14785210,410.29,413.0,400.185,12-21,1405.0,2020-12-21 00:00:00,congress finally reached stimulus deal worry it’s little late it’s finally enough,-1.0
+TSLA,Tesla Inc,2019-12-21,405.59,14785210,410.29,413.0,400.185,12-21,1407.0,2020-12-21 00:00:00,financial market jolted monday emergence fastspreading coronavirus variant led suspension trade travel britain well another lockdown london new threat overshadowed progress washington toward longawaited economic aid package stock roiled fastspreading virus strain britain overshadows stimulus deal,1.0
+TSLA,Tesla Inc,2019-12-22,405.59,14785210,410.29,413.0,400.185,12-22,1404.0,2020-12-22 00:00:00,russian hacker appear attacked system senior official department big hack breach treasury’s top level,1.0
+TSLA,Tesla Inc,2019-12-22,405.59,14785210,410.29,413.0,400.185,12-22,1400.0,2020-12-22 00:00:00,investor betting small company like workhorse help popularize electric commercial vehicle tesla aim extend reach race become tesla delivery truck van,-1.0
+TSLA,Tesla Inc,2019-12-23,419.22,13332820,411.78,422.01,410.0,12-23,1403.0,2020-12-23 00:00:00,president threatened upend hardfought compromise may get want trump threw stimulus curveball,0.0
+TSLA,Tesla Inc,2019-12-24,425.25,8054720,418.36,425.47,412.6875,12-24,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-12-25,425.25,8054720,418.36,425.47,412.6875,12-25,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-12-26,430.94,10648290,427.91,433.48,426.35,12-26,1412.0,2020-12-26 00:00:00,investor stripe piled stock year creating level froth reminiscent dotcom boom analyst say there’s room go higher worry bubble market edge toward euphoria despite pandemic’s toll,1.0
+TSLA,Tesla Inc,2019-12-27,430.38,9956827,435.0,435.31,426.11,12-27,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-12-28,430.38,9956827,435.0,435.31,426.11,12-28,1410.0,2020-12-28 00:00:00,mike strizki power house car hydrogen homebrew using retirement evangelize planetsaving advantage hydrogen battery gospel hydrogen power,0.0
+TSLA,Tesla Inc,2019-12-29,430.38,9956827,435.0,435.31,426.11,12-29,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-12-30,414.7,12601270,428.79,429.0,409.2589,12-30,0.0,0,0,0.0
+TSLA,Tesla Inc,2019-12-31,418.33,10292460,405.0,421.29,402.08,12-31,1401.0,2020-12-31 00:00:00,tesla completes factory berlin mercedesbenz audi introducing electric car bid defend dominance luxury market german automaker charged ready take tesla,1.0
