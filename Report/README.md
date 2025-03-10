@@ -41,7 +41,11 @@ Graph showing the predictions vs Actual for Tweet Sentiment Model and Prediction
 # REPORT - 3
 ### Using ANN for Sentiment Analysis - Microsoft 
 It loads the datasets and tokenizes it. Then two LSTM-based neural networks 
-are built to classify sentiments into 3 categories for both the tweets and the news articles. Both LSTM-models are trained on the respective datasets using train-test split and validates them. Both models are evaluated using classification reports and confusion matrices. _RESULTS_: 
+are built to classify sentiments into 3 categories for both the tweets and the news articles. Both LSTM-models are trained on the respective datasets using train-test split and validates them. Both models are evaluated using classification reports and confusion matrices.
+_RESULTS_: 
+For Tweets sentiment model, training performance achieved 90% accuracy.Model works well on neutral and positive tweets. While for News sentiment model, training performance achieved 59% accuracy. Positive class works well. 
 
 ### Using ANN for Sentiment Analysis - Tesla
 The same code is used for evaluating the datasets under Tesla. 
+_RESULTS_: 
+For Tweets sentiment model, training performance achieved 89% accuracy.Model works well on neutral tweets. While for News sentiment model, training performance achieved 58% accuracy. Neutral class works well with a score of F1-score.
