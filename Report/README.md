@@ -18,7 +18,7 @@ First, we load the dataset and then convert the _“date”_ column to a proper 
 Again the process remains same for both Microsoft and Tesla. First we load the cleaned datasets. We start with sentiment analysis of tweets using VADER. and then do the sentiment analysis for news articles using TextBlob. This data is then stored into new .csv files : _“sentiment_msft_tweets.csv”_ ,  _“sentiment_msft_articles.csv” _, _“sentiment_tsla_tweets.csv”_ and _“sentiment_tsla_articles.csv”_
 
 # REPORT -2 
-Using LSTM for Sentiment Analysis - Microsoft
+### Using LSTM for Sentiment Analysis - Microsoft
 Here we are training models like _Naive Bayes, SVM , Decision Tree and Random Forest Classifier_, to see which is best suited for sentiment analysis. Upon implementing the code, we see that **SVM** is the best model with _89%_ accuracy, followed by **Random Forest** with _85% _accuracy for tweets sentiment classification. For news sentiment classification,** Naive Bayes** and **SVM** both have an _accuracy of 60%_. 
 
 
@@ -37,3 +37,11 @@ These newly saved .csv files are loaded and compiled and trained using LSTM mode
 ### Visualization
 Graph showing the predictions vs Actual for Tweet Sentiment Model and Predictions vs Actual for News Sentiment Model. The more it is overlapping, the more accurate it is.
 
+
+# REPORT - 3
+### Using ANN for Sentiment Analysis - Microsoft 
+It loads the datasets and tokenizes it. Then two LSTM-based neural networks 
+are built to classify sentiments into 3 categories for both the tweets and the news articles. Both LSTM-models are trained on the respective datasets using train-test split and validates them. Both models are evaluated using classification reports and confusion matrices. _RESULTS_: 
+
+### Using ANN for Sentiment Analysis - Tesla
+The same code is used for evaluating the datasets under Tesla. 
