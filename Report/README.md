@@ -53,6 +53,13 @@ For Tweets sentiment model, training performance achieved 89% accuracy.Model wor
 
 # REPORT - 4
 ### Using ANN for sentiment Analysis - Microsoft
+datasets are loaded, and this data is then split into 80% for training and 20% for testing. encodes sentiment labels into one-hot format. The ANN model is created. It trains two separate models, one for tweets and the other for news sentiment. 
+_RESULTS_: the ANN models performed well on the tweets with an 88% accuracy, with strong recall for negative and neutral sentiments. The ANN struggles with news classification with a 63% accuracy.
+
 
 ### Using ANN for sentiment Analysis - Tesla 
+The same code is implemented and used for evaluating the datasets.
+_RESULTS_: the ANN model performed decently on the tweets with a 70% accuracy, with strong performance for negative and neutral sentiments. the ANN struggles with news classification with only 58% accuracy.
+
+
 
