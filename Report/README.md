@@ -49,3 +49,10 @@ For Tweets sentiment model, training performance achieved 90% accuracy.Model wor
 The same code is used for evaluating the datasets under Tesla. 
 _RESULTS_: 
 For Tweets sentiment model, training performance achieved 89% accuracy.Model works well on neutral tweets. While for News sentiment model, training performance achieved 58% accuracy. Neutral class works well with a score of F1-score.
+
+
+# REPORT - 4
+### Using ANN for sentiment Analysis - Microsoft
+
+### Using ANN for sentiment Analysis - Tesla 
+
