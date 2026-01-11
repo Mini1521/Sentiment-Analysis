@@ -30,3 +30,21 @@ Sentiment classification was performed using:
 
 ### Stock Price Prediction
 LSTM models were trained using combined sentiment and financial features to predict stock closing prices. Model performance was elevated using MAE, RMSE, and R<sup>2</sup> score. 
+
+## Results:
+### Sentiment Classification Performance:
+LSTM models consistently outperformed traditonal ML approached due to theri ability to capture contextual and sequential patterns in text.
+- Microsoft Tweets: 90% accuracy
+- Microsoft News: 59% accuracy
+- Tesla Tweets: 89% accuracy
+- Tesla News: 58% accuracy
+Tweet-based sentimetn achived higher accuracy that news sentiment, indication the stronger real-time influence of social media.
+
+### Stock Price Prediction Performce (LSTM)
+- Microsoft:
+  _ R<sup>2</sup> = 0.9996
+  _ RMSE = 0.0046
+- Tesla:
+  _ R<sup>2</sup> = 0.9384
+  _ RMSE = 0.0533
+Predictions using tweet-based sentiment consistently produced lower error rates that those using news-based sentiments.
