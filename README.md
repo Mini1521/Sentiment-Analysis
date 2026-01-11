@@ -1,7 +1,7 @@
 # Sentiment-Analysis : Social Media Influence on Stock Market Prediction
 
 ## Project Overview:
-This project investigates the influence of ublic sentiment extracted from social media (Twitter) and financial nws articles on stock price movements of Microsoft and Tesla. The study applies traditional machine learning and deep learning techniques to perform sentiment classification and integrates sentiment signals with historical stock data to predic stock prices using LSTM models.
+This project investigates the influence of public sentiment extracted from social media (Twitter) and financial nws articles on stock price movements of Microsoft and Tesla. The study applies traditional machine learning and deep learning techniques to perform sentiment classification and integrates sentiment signals with historical stock data to predic stock prices using LSTM models.
 
 The project forms parts of an undergraduate dissertation in Computer Science (Data Science) and aims to evaluate whether sentiment-driven features can improve financial forecasting performance.
 
