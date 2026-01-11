@@ -42,7 +42,7 @@ Tweet-based sentimetn achived higher accuracy that news sentiment, indication th
 
 ### Stock Price Prediction Performce (LSTM)
 - Microsoft:
-  _ R<sup>2</sup> = 0.9996
+- _ R<sup>2</sup> = 0.9996
   _ RMSE = 0.0046
 - Tesla:
   _ R<sup>2</sup> = 0.9384
