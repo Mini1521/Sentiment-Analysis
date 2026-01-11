@@ -41,12 +41,12 @@ LSTM models consistently outperformed traditonal ML approached due to theri abil
 Tweet-based sentimetn achived higher accuracy that news sentiment, indication the stronger real-time influence of social media.
 
 ### Stock Price Prediction Performce (LSTM)
-- Microsoft:
-- _ R<sup>2</sup> = 0.9996
-  _ RMSE = 0.0046
-- Tesla:
-  _ R<sup>2</sup> = 0.9384
-  _ RMSE = 0.0533
+1. Microsoft:
+   - R<sup>2</sup> = 0.9996
+   - RMSE = 0.0046
+2. Tesla:
+   - R<sup>2</sup> = 0.9384
+   - RMSE = 0.0533
 Predictions using tweet-based sentiment consistently produced lower error rates that those using news-based sentiments.
 
 ## Key Findings:
