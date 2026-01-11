@@ -48,3 +48,20 @@ Tweet-based sentimetn achived higher accuracy that news sentiment, indication th
   _ R<sup>2</sup> = 0.9384
   _ RMSE = 0.0533
 Predictions using tweet-based sentiment consistently produced lower error rates that those using news-based sentiments.
+
+## Key Findings:
+- Deep Learnign models, particularly LSTM, outperforms traditional ML models for sentiment classification
+- Social media sentimetn has a stronger short-term impact on stock prices than news sentiment
+- Integrating sentiment features with technical indicators significantly improves stock price prediction accuracy.
+
+## Tools and Technologis
+- **Programming** : Python
+- **Libraries** : Pandas, NumPy, Scikit-learn, TensorFlow, Keras
+- **NLP** : NLKT, VADER, TextBlob
+- **Visualization** : Matplotlib
+- **Platform** : Google Colab
+
+## Fututre Work 
+- Integrate transformer-based models such as BERT or FinBERT
+- Extend analysis to real-time data streams
+- Apply the framworkd to additional compaines or financail sectors.
